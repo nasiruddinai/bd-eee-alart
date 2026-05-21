@@ -1,5 +1,5106 @@
 {
-  "last_updated": "2026-05-21T13:39:19.808456+00:00",
-  "new_this_run": 0,
-  "jobs": []
+  "last_updated": "2026-05-21T20:21:44.872853+00:00",
+  "new_this_run": 488,
+  "jobs": [
+    {
+      "id": "8c03cbfce8",
+      "title": "Administration",
+      "org": "BUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.buet.ac.bd",
+      "source_url": "https://www.buet.ac.bd/web/#/notice"
+    },
+    {
+      "id": "8ee0d6e815",
+      "title": "Departments",
+      "org": "BUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.buet.ac.bd",
+      "source_url": "https://www.buet.ac.bd/web/#/notice"
+    },
+    {
+      "id": "41e9648c5f",
+      "title": "Institutes",
+      "org": "BUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.buet.ac.bd",
+      "source_url": "https://www.buet.ac.bd/web/#/notice"
+    },
+    {
+      "id": "5a2a048ea0",
+      "title": "Faculty & Staff",
+      "org": "BUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.buet.ac.bd",
+      "source_url": "https://www.buet.ac.bd/web/#/notice"
+    },
+    {
+      "id": "880ef3a04f",
+      "title": "News & Events",
+      "org": "BUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.buet.ac.bd",
+      "source_url": "https://www.buet.ac.bd/web/#/notice"
+    },
+    {
+      "id": "76ecac555b",
+      "title": "UG Admission",
+      "org": "BUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.buet.ac.bd",
+      "source_url": "https://www.buet.ac.bd/web/#/notice"
+    },
+    {
+      "id": "cb15c6a8b2",
+      "title": "PG Admission",
+      "org": "BUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.buet.ac.bd",
+      "source_url": "https://www.buet.ac.bd/web/#/notice"
+    },
+    {
+      "id": "28d4487d36",
+      "title": "ALUMNI",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://alumni.cuet.ac.bd/",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "f083a59e8f",
+      "title": "Recruitment Notice — CUET",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/noc",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "99d2ee2913",
+      "title": "ADMINISTRATION",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/administration",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "1197415670",
+      "title": "Academic Information",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/academic-information",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "24dd9a6604",
+      "title": "Academic Calendars",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/academic-information/academic-calendars",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "1b5c63cd17",
+      "title": "Undergraduate Program",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/academic-information/undergraduate-studies",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "b4bc9fa471",
+      "title": "Postgraduate Program",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/academic-information/graduate-studies",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "a990182752",
+      "title": "International Students",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/academic-information/international-students",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "1843ecb57b",
+      "title": "Faculties",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/faculty",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "8c8e22bb55",
+      "title": "Faculty of Architecture & Planning",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/faculty/architecture-&-planning",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "6ebd56f55c",
+      "title": "Faculty of Civil and Environment Eng.",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/faculty/civil-and-environment-eng",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "f52098f631",
+      "title": "Faculty of Electrical & Computer Eng.",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/faculty/electrical-&-computer-engineering",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "0e3c055da4",
+      "title": "Faculty of Mechanical and Manufacturing Eng.",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/faculty/mechanical-and-manufacturing-eng",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "f56155765b",
+      "title": "Faculty of Science & Technology",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/faculty/science-&-technology",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "91043ea5fa",
+      "title": "Departments",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/departments",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "929cc2ce4a",
+      "title": "Architecture",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/Architecture",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "230a729731",
+      "title": "Biomedical Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/BME",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "838541b57d",
+      "title": "Chemistry",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/Chemistry",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "655489aec8",
+      "title": "Civil Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/CE",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "4d594a923b",
+      "title": "Computer Science & Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/cse",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "f714bd8ea9",
+      "title": "Disaster Engineering And Management",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/DEM",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "3882328f99",
+      "title": "Electrical and Electronic Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/EEE",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "5dbe4eca99",
+      "title": "Electronics & Telecommunication Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/ETE",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "73c199ccbe",
+      "title": "Humanities",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/hum",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "af5915a883",
+      "title": "Materials and Metallurgical Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/MME",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "a817b764de",
+      "title": "Mathematics",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/Mathematics",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "693953effc",
+      "title": "Mechanical Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/ME",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "c9c1aff72c",
+      "title": "Mechatronics & Industrial Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/MIE",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "7c3e9335ec",
+      "title": "Nuclear Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/NE",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "7736a88944",
+      "title": "Petroleum And Mining Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/PME",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "9cbbb05e03",
+      "title": "Physics",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/Physics",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "7f5a5bdd0d",
+      "title": "Urban & Regional Planning",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/URP",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "513266e443",
+      "title": "Water Resources Engineering",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/department/WRE",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "fa054d6dd3",
+      "title": "Institutes",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/institutes",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "c5b0b8be7b",
+      "title": "IRHES",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/institutes/IRHES",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "3b987be97e",
+      "title": "Centers",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/centers",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "277ee83104",
+      "title": "ceser",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/centers/ceser",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "46dda47ac3",
+      "title": "physical-education",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/centers/physical-education-2",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "be09d71512",
+      "title": "Administration",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/administration",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "fe07266ed3",
+      "title": "News & Events",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/news-events",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "ff22707e30",
+      "title": "Alumni",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://alumni.cuet.ac.bd/",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "ff620832df",
+      "title": "Scholarship & Financial Aids",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/scholarship-financial-aids",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "2fdb9b14d2",
+      "title": "Halls of Residence",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/halls",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "23e2729360",
+      "title": "Student Organizations",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/organizations",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "69c0b096d6",
+      "title": "Student Notices",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/notices",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "83601bd437",
+      "title": "E-Resources",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/e-resources",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "e351700a80",
+      "title": "Events",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/events",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "ce706f8caa",
+      "title": "Downloads",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/downloads",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "b248bd612d",
+      "title": "Journal Paper",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/research/journal-paper",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "b673153eeb",
+      "title": "Conference Paper",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/research/conference-paper",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "5984b2edc7",
+      "title": "Partnership",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/research/partnership",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "f283f7d72e",
+      "title": "All Notices",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/all-notice",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "0a2297f287",
+      "title": "General Notices",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/general",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "1fe3136edd",
+      "title": "Appointments",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/appointments",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "8dfdb6c6c3",
+      "title": "Offices Orders/NOC",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/noc",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "2e33ae3176",
+      "title": "Academic Calender",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/academic-calender",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "d82345fa9b",
+      "title": "Tender/E-Tender",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/tender",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "e92a19b606",
+      "title": "Annual Procurement Plan(Goods and Related services)",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://app.cuet.ac.bd//storage/Notices/68d0d0992efd5.pdf",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "d2fed6c15d",
+      "title": "History of CUET",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/history",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "32afb02ecb",
+      "title": "About CUET",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/cuet",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "7fc446be8a",
+      "title": "Vision and Mission",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/vision-and-mission",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "20c3fb786e",
+      "title": "Previous Vice Chancellors",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/previous-vc",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "9d6fcecf34",
+      "title": "Campus Map",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/campus-map",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "3e67f7217d",
+      "title": "Photo Gallery",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/photo-gallery",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "08dd4a637f",
+      "title": "Contact Us",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/contact",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "87aaddb951",
+      "title": "Admission",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/admission",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "9cb4e0761d",
+      "title": "Research Highlights",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/research-highlights",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "eae28e36ad",
+      "title": "Research Area",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/research-area",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "16dc60d72b",
+      "title": "Publication",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/research-type/publication",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "92e1c01d24",
+      "title": "Others",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/research-type/others",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "51fb0a293b",
+      "title": "Return to home page",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "f601cfc499",
+      "title": "Office Of The comptroller",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/section/comptroller-of-accounts",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "eda70efe1a",
+      "title": "Controller Of Examinations",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/section/controller-of-examinations",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "0c4f49c8e5",
+      "title": "Engineering Office",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/section/engineering-office",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "04b9887e8a",
+      "title": "Medical Center",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/section/medical-center",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "c4e5ab94d3",
+      "title": "Transport Section",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/section/transport-section",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "edd230eabe",
+      "title": "Physical Education",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/centers/physical-education-2",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "9e45b8ffaa",
+      "title": "Notices",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/all-notice",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "127f50372c",
+      "title": "Directories",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/directories",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "679abc1233",
+      "title": "Offices Orders / NOC",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/notices/noc",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "d01034f9b8",
+      "title": "Undergraduate",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/undergraduate-student",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "393ea6d19d",
+      "title": "Postgraduate",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/postgraduate-student",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "6c2c901b3e",
+      "title": "Admission of Foreign Students",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/fsc",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "a79099db1d",
+      "title": "Scholarship Financial Aids",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/student/scholarship-financial-aids",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "95f9c21ee7",
+      "title": "Vice-Chancellor's Office",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/office/vc-office",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "6d43e35e2c",
+      "title": "Pro-Vice-Chancellor's Office",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/office/pro-vc-office",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "8df083b873",
+      "title": "Registrar Office",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/office/registrar-office",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "4cfdd0de81",
+      "title": "Planning and Development",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/committee/planning-and-development-committee",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "0421844900",
+      "title": "Security Section",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/section/security",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "427a7b5219",
+      "title": "IT Support",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/institutes/iict",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "b4c8a9b298",
+      "title": "Downloadable Forms",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/downloads",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "24f0fd2376",
+      "title": "History",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/history",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "27b040cbde",
+      "title": "Vision And Mission",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/about/vision-and-mission",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "b5ac007a8a",
+      "title": "Directorate Of Student's Welfare",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/directorate/dsw",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "b9a4b7d9cf",
+      "title": "Directorate Of Research And Extension",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/directorate/research-extension",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "e929ea2b9a",
+      "title": "IT Business Incubator",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/directorate//ITBI",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "9200db9480",
+      "title": "Annual Performance Agreement",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/apa/annual-performance-agreement",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "190202581d",
+      "title": "Evaluation Report",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/apa/evaluation-report",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "3b7650c48b",
+      "title": "Implementation Committee",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/apa/implementation-committee",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "96c1286f4e",
+      "title": "Focal Point",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/apa/focal-point",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "bade65b944",
+      "title": "Chittagong University of Engineering and Technology",
+      "org": "CUET",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Chittagong",
+      "apply_url": "https://www.cuet.ac.bd/",
+      "source_url": "https://www.cuet.ac.bd/notices"
+    },
+    {
+      "id": "a3bbaf460e",
+      "title": "Islamic University of TechnologyA subsidiary organ of Organisation of Islamic Cooperation(OIC)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d80365e5f4",
+      "title": "Recruitment Notice — IUT",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "00a5cbdd04",
+      "title": "About",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/about",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "594c329372",
+      "title": "Apply Now",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "99f168f679",
+      "title": "Admission Page",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "27869b1b63",
+      "title": "Financial Aid",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/information/scholarship",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ebd25b22f6",
+      "title": "Student Fees",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/information/payment-fees",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e1e0cb03ce",
+      "title": "Admission Roadmap",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "14db86633f",
+      "title": "International Students",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "3cc2b99a23",
+      "title": "Campus Life",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://iutoic-dhaka.edu/admission",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "383d3fd19d",
+      "title": "IUT: Mission and vision",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ba4d4ac4ae",
+      "title": "Academic Life",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1b39e90c3f",
+      "title": "Academic Calendar",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_calendar",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "07870a98e3",
+      "title": "Institutes",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "2e1de785aa",
+      "title": "Library",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://library.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "be7b4d4345",
+      "title": "Research Group",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bb10024214",
+      "title": "MOU and Linkage",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "53ff6eb2af",
+      "title": "Residence and Cafeteria",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "8fa0eb4db9",
+      "title": "Halls of Residence (Female)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "75027ccba1",
+      "title": "Societies",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ec26e861fd",
+      "title": "Office of International Affairs and External Communications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://iaec.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "29989bf13f",
+      "title": "Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "871295d136",
+      "title": "Office of the Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "263b715cf1",
+      "title": "Office of the Pro Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office-of-the-pro-vice-chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "7084516f95",
+      "title": "Board Members",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/board-members",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bc6714b9fd",
+      "title": "Office of the Provost (Male)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://provost.male.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c264c0c2da",
+      "title": "Office of the Provost (Female)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://provost.female.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1d4cfab0dd",
+      "title": "Human Resource and Cabinet Office",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/establishment_office",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1fcaa47f24",
+      "title": "Finance and Accounts Office",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/finance_and_accounts_office",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e2828c7d55",
+      "title": "Planning, Procurement and Development Office",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/planning_and_development_office",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "83135e757f",
+      "title": "ICT Centre",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://ict.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "6834c32b34",
+      "title": "University Medical Centre",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ea1527ecd3",
+      "title": "Committees",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/committees",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "a180b70a80",
+      "title": "Former VCs/Director Generals/Directors",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/about-iut/former-directors-director-generals-vcs",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "87ea8cc269",
+      "title": "Rules and Regulations",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c1a7afe479",
+      "title": "Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-vice-chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ef19364a41",
+      "title": "Registrar",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-registrar",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "feccc48ee5",
+      "title": "Dean (Faculty of Postgraduate Studies)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-fps",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bdb9e54d91",
+      "title": "Dean (Faculty of Engineering and Technology)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-(fet)",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d93fc75a81",
+      "title": "Dean (Faculty of Science and Technical Education)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-(fste)",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "7a3da55501",
+      "title": "News Letters",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/news-letters",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "35e74147ac",
+      "title": "Resources",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/e-resources",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e429a9aed2",
+      "title": "IUT: A Solemn Journey 2025",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/2025-solemn-journey",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bcfd12c7b9",
+      "title": "IUT LMS Manual",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/iut-lms-manual",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "eccf6543ef",
+      "title": "Student Information System",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://sis.iutoic-dhaka.edu",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "5966e75ce6",
+      "title": "Admission",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "8633334942",
+      "title": "Student\n                            Login",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://ssl.du.ac.bd/studentlogin",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "1be981110b",
+      "title": "Online Services",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/onlineServices",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "4501a6a55f",
+      "title": "Citizen's Charter",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://apa.du.ac.bd/get_content/6/21",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "a7f4e46803",
+      "title": "Home :: Dhaka University DU",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "f04988dcf1",
+      "title": "Historical\n                                                        Outline",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/university/HistoricalOutline",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "8ebe5aba36",
+      "title": "University at a\n                                    Glance",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/university/DuataGlance",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "88b73a666e",
+      "title": "Vision & Mission",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/university/VisionMission",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "6caee62cbb",
+      "title": "Honoris Causa",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/university/HonorisCausa",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "99aa442ee3",
+      "title": "List of Vice\n                                    Chancellors",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/listofViceChancellors",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "536c72b0a0",
+      "title": "Chancellor",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadership/chancellor",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "cc1c576fba",
+      "title": "Administration",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadership",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "69ee8c442e",
+      "title": "Vice\n                            Chancellor",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadership/vc",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "9d0ad233d4",
+      "title": "Pro-Vice\n                            Chancellor\n                            (Administration)",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadership/provcp",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "96b84232ab",
+      "title": "Pro-Vice Chancellor\n                            (Academic)",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadership/provca",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "7083e8a7ee",
+      "title": "Treasurer",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadership/treasurer",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "95a6dc6064",
+      "title": "University\n                            Ordinance",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/university/UniversityOrdinance",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "fad444d00b",
+      "title": "Senate Members",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/senateMember",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "84cac47f1a",
+      "title": "Syndicate\n                            Members",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/syndicateMembers",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "75f284422e",
+      "title": "University\n                            Statutes",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/university/UniversityStatutes",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "4cb5d75321",
+      "title": "Academic Programs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/find_course",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "35bc41e901",
+      "title": "Academic Calendar",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/academicCalendar",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "3a6c89eba6",
+      "title": "Libraries",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/libraries",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "e5ffcfd16c",
+      "title": "Faculties",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/officesOfDeans",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "dd8e60f91e",
+      "title": "Departments",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/departments",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "1a6bc95509",
+      "title": "Institutes",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/institutes",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "d2cb57d78f",
+      "title": "Constituent\n                                            Colleges",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/colleges/Constituent",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "ff495b138f",
+      "title": "Affiliated\n                                            Colleges",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/colleges/Affiliated",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "4d6d7bba42",
+      "title": "Undergraduate\n                                            Programs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/undergraduatePrograms",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "69da155515",
+      "title": "Graduate\n                                            Programs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/graduatePrograms",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "73755d2dcb",
+      "title": "MPhil Programs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/notice/26123",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "245d51a9e7",
+      "title": "PhD Programs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/post/26125",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "12ef36d9f3",
+      "title": "International Students",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/InternationalAdmission",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "00b733c723",
+      "title": "Deans of\n                                            Faculties",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadershipList/dean",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "e12f87e903",
+      "title": "Chairman of\n                                            Departments",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadershipList/chairman",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "3dd4ab7eb4",
+      "title": "Directors of\n                                            Institutes",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadershipList/director",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "58a3fa52aa",
+      "title": "Directors\n                                            of\n                                            Research Centers & Bureau",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadershipList/director_research_center",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "023cac2542",
+      "title": "Provosts & Wardens of\n                                            Halls and\n                                            Hostel",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadershipList/provost",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "44b44a0d4f",
+      "title": "Head of\n                                            Offices",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/leadershipList/office_head",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "9b4117dbc7",
+      "title": "All\n                                            Offices",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/all_offices",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "6d2df3228c",
+      "title": "Faculty Member\n                                            Profile",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/faculty_member",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "27bf0a12a1",
+      "title": "Officer Profile",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/staff_information",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "32399ef8da",
+      "title": "Scholarships &\n                                                                    Financial Aids",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/scholarship_financial_aid",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "41fecd32b2",
+      "title": "Halls of Residence",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/students/HallsResidence",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "2bc7516294",
+      "title": "Transport\n                                                                    Facilities",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/students/Transport",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "d86fcb13ac",
+      "title": "Health Insurance",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/students/Insurance",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "d951531914",
+      "title": "Scholarship Notice",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/scholarship_notice",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "eec38254d3",
+      "title": "Apply for Certificate/Marksheet/Transcript(DU)",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://eco.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "d12f558a1d",
+      "title": "Apply\n                                                                    for Govt. Scholarships",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://studentscholarship.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "12464b6f87",
+      "title": "Exam Form Fill-up",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://eco.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "8b054dac50",
+      "title": "Research Centers & Bureaus",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/research_center",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "8622518fdb",
+      "title": "Research & Publications",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/current_research",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "11fc196141",
+      "title": "Research Collaboration",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/research_collaboration",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "42adf42a5e",
+      "title": "Funded\n                                                                Projects",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/funded_project",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "6eff9914ce",
+      "title": "Research Integrity Framework",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/fontView/forms/Research_Integrity_Framework.pdf",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "06b1f175bc",
+      "title": "DU in Media",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/media",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "07268df9eb",
+      "title": "DU Library",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/offices/LIB",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "675830b740",
+      "title": "Registered Graduate",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://reggrad.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "3eb5781bc2",
+      "title": "Student Login",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://ssl.du.ac.bd/studentlogin",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "935fdc5972",
+      "title": "Telephone and Email Index",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/employee_directory",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "0f0f0a0eb2",
+      "title": "DU Forms",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_forms",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "45d8b9a228",
+      "title": "Approved\n                                                                NOC/GO",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_noc",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "bb57f75bfa",
+      "title": "DU Jobs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://jobs.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "1d465ab44f",
+      "title": "Trust\n                                                                Funds",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_trust_funds",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "8d8d948b75",
+      "title": "Notice",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/notice",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "52ec1ca816",
+      "title": "Latest\n                                                                News",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/news",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "8be1735876",
+      "title": "Events",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/events",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "c42f068fe8",
+      "title": "Tender",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_tender",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "ebe3a395a5",
+      "title": "Affiliated Colleges",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "http://7college.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "21f0abcd53",
+      "title": "DU Barta",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_barta",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "c16c244ae5",
+      "title": "Media",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/media",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "d367122dac",
+      "title": "Recruitment Notice — University of Dhaka",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://apa.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "9ca75b7afb",
+      "title": "Refresh",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/notice",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "d4aa336fdb",
+      "title": "জরুরি বিজ্ঞপ্তি : আগামী ২৩ ও ২৪ মে ২০২৬ তারিখ ঢাকা বিশ্ববিদ্যালয়ের অফিসসমূহ খোলা",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/জরুরি-বিজ্ঞপ্তি-:-আগামী-২৩-ও-২৪-মে-২০২৬-তারিখ-ঢাকা-বিশ্ববিদ্যালয়ের-অফিসসমূহ-খোলা/27495",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "5b54766b60",
+      "title": "Read More",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/জরুরি-বিজ্ঞপ্তি-:-আগামী-২৩-ও-২৪-মে-২০২৬-তারিখ-ঢাকা-বিশ্ববিদ্যালয়ের-অফিসসমূহ-খোলা/27495",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "b8f0d50d8a",
+      "title": "প্রধান প্রকৌশলী (ভারপ্রাপ্ত) এর ছুটি সংক্রান্ত বিজ্ঞপ্তি",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/প্রধান-প্রকৌশলী-(ভারপ্রাপ্ত)-এর-ছুটি-সংক্রান্ত-বিজ্ঞপ্তি/27492",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "5bc5b247e0",
+      "title": "বিশ্ববিদ্যালয় পাওনা প্রসঙ্গে",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/বিশ্ববিদ্যালয়-পাওনা-প্রসঙ্গে/27491",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "25bd2b6f50",
+      "title": "ছুটিকালীন সময়ে গ্যাস ও প্লাম্বিং ইত্যাদি জরুরী সেবাদানের জন্য দায়িত্বপ্রাপ্তদের তালিকা",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/ছুটিকালীন-সময়ে-গ্যাস-ও-প্লাম্বিং-ইত্যাদি-জরুরী-সেবাদানের-জন্য-দায়িত্বপ্রাপ্তদের-তালিকা/27481",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "5adceea007",
+      "title": "প্রধান প্রকৌশলীর দপ্তরের অফিস নির্দেশ",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/প্রধান-প্রকৌশলীর-দপ্তরের-অফিস-নির্দেশ/27474",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "5191eb40a9",
+      "title": "Master of Science in Applied Statistics and Data Science Program- এর শূন্য আসনের ভর্তি বিজ্ঞপ্তি",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/Master-of-Science-in-Applied-Statistics-and-Data-Science-Program--এর-শূন্য-আসনের-ভর্তি-বিজ্ঞপ্তি/27453",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "f0ff01f421",
+      "title": "পবিত্র ঈদ-উল-আজহা ২০২৬ উপলক্ষে বন্ধ সময়ে জরুরি নির্দেশনা",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/পবিত্র-ঈদ-উল-আজহা-২০২৬-উপলক্ষে-বন্ধ-সময়ে-জরুরি-নির্দেশনা/27452",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "37ad4209fc",
+      "title": "Professional Masters in Disaster and Climate Resilience প্রোগ্রামে ভর্তি বিজ্ঞপ্তি",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/Professional-Masters-in-Disaster-and-Climate-Resilience-প্রোগ্রামে-ভর্তি-বিজ্ঞপ্তি/27406",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "6562dbc73b",
+      "title": "Professional MS in Psychology 2024-2025, 5th Batch Admission Notice",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/Professional-MS-in-Psychology-2024-2025,-5th-Batch-Admission-Notice/27405",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "2ca770568d",
+      "title": "পবিত্র ঈদ-উল- আজহা উপলক্ষে এক দিন ছুটি বর্ধিত প্রসঙ্গে",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_post_details/পবিত্র-ঈদ-উল--আজহা-উপলক্ষে-এক-দিন-ছুটি-বর্ধিত-প্রসঙ্গে/27402",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "aa87927a5c",
+      "title": "Notice:: University of Dhaka DU",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/notice?page=2",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "9b8ba7eca5",
+      "title": "Approved NOCs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_noc",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "0657e04f6e",
+      "title": "Du Jobs",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://jobs.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "32ba9e3617",
+      "title": "Trust Funds",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_trust_funds",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "cac3089f11",
+      "title": "Latest News",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/news",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "353e005a26",
+      "title": "Contact Us",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/contactus",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "7e88c13b5a",
+      "title": "Job Portal | University of Dhaka Register Sign in All Teachers Officers Class III Class IV Other Assistant Professor, Department of Physics (1 post) Teacher",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "http://jobs.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "dcb925d367",
+      "title": "DU\n                                    Tender",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/du_tender",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "4e89050820",
+      "title": "Distinguished Visitors",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/distinguished_visitors",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "95ef5d65c7",
+      "title": "DU Institutional Repository",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "http://reposit.library.du.ac.bd:8080/xmlui/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "199c826528",
+      "title": "Contacts For\n                                    Services",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/contactsService",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "26a086cb26",
+      "title": "Annual Performance Agreement (APA)",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://apa.du.ac.bd/",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "cfa1ba1e9b",
+      "title": "ICT Cell",
+      "org": "University of Dhaka",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.du.ac.bd/offices/ictcell",
+      "source_url": "https://www.du.ac.bd/notice"
+    },
+    {
+      "id": "f8684c2878",
+      "title": "Publications",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://rds3.northsouth.edu/index.php/nsuresearch",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "7c4e7ecb8b",
+      "title": "International Students",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "http://institutions.northsouth.edu/oea/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "a8a6bca0be",
+      "title": "Academic Calendar",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/academic-calendar/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "17deb61b9c",
+      "title": "Newsletters",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/newsletter.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "beed768e0b",
+      "title": "Journals",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/journals.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "0bda88fee2",
+      "title": "Catalog",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/newsletter/nsu-catalog.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "e319ef3582",
+      "title": "Library",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "http://library.northsouth.edu",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "348bc39b0c",
+      "title": "Career",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/all-career-at-nsu/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "8394528fde",
+      "title": "Archive",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/archive.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "967a60ead4",
+      "title": "Contact Us",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/contact-us.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "75f30e59d7",
+      "title": "Recruitment Notice — North South University",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "32756672bc",
+      "title": "Brief History",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/brief-history/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "1c880f674b",
+      "title": "Vision, Mission &\n                                Strategy",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/vms.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "4bc03507e2",
+      "title": "International \n                                Advisory Board",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/int-ab.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "031d1776a3",
+      "title": "Accreditation",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/accreditation.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "5f50c57c2f",
+      "title": "International Recognition",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/international-recognition.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "b4842e79ed",
+      "title": "Facts About NSU",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/facts.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "a5dfc131a8",
+      "title": "Board of Trustees",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/bot/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "5ccf3aead5",
+      "title": "VC, Pro-VC &\n                                Treasurer",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/executive-leaders.html#one",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "43d52f40ba",
+      "title": "Deans, Chairs &\n                                Directors",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/executive-leaders.html#six",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "33d6791478",
+      "title": "Administration",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/about/executive-leaders.html#two",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "e29bd2b686",
+      "title": "Syndicate",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/newassets/images/Registrs Office/memberlist-syndicate-18may2026.pdf",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "0100aa9e1c",
+      "title": "Academic Council",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/newassets/images/Registrs Office/acmemberlist-12042026.pdf",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "a63695a211",
+      "title": "School of Business & Economics",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/sbe/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "006791b79a",
+      "title": "Accounting &\n                                Finance",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/sbe/acc-fin/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "3e88a466b9",
+      "title": "Economics",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/sbe/economics.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "8fbc3e799a",
+      "title": "Management",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/sbe/mgt.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "7458c7428b",
+      "title": "Marketing\n                                & International Business",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/sbe/mib.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "a18536897d",
+      "title": "MBA & EMBA Programs",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/sbe/mba-emba/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "b2af9b8f26",
+      "title": "BBA Program",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/sbe/bba-program.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "9ddce1632c",
+      "title": "School of Engineering & Physical\n                                Sciences",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/seps/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "6d42013bab",
+      "title": "Architecture",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/seps/architecture.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "2228f58031",
+      "title": "Civil and Environmental\n                                Engineering",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/seps/cee/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "3660dc2479",
+      "title": "Electrical & Computer\n                                Engineering",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "http://ece.northsouth.edu/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "f051d94d65",
+      "title": "Mathematics &\n                                Physics",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/seps/math-physics/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "4b5ca310b0",
+      "title": "School of Humanities & Social\n                                Sciences",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shss/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "55a0241248",
+      "title": "English &\n                                Modern Languages",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shss/lml.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "6a8d762cee",
+      "title": "Political\n                                Science & Sociology",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shss/pss/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "2d7764879f",
+      "title": "Strategy International",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shss/law/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "6a08a7ed6a",
+      "title": "History &\n                                Philosophy",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shss/dhp.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "4ca08b3d6f",
+      "title": "Media, Communication, and Journalism",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shss/dmcj.html",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "af7379ae04",
+      "title": "School of Health & Life Sciences",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shls/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    },
+    {
+      "id": "85b2ac8a5d",
+      "title": "Biochemistry\n                                & Microbiology",
+      "org": "North South University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-21",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://www.northsouth.edu/academic/shls/bmd/",
+      "source_url": "https://www.northsouth.edu/faculty-staff/job-opening.html"
+    }
+  ]
 }
