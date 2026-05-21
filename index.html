@@ -243,7 +243,7 @@ let filt = 'all';
 
 async function loadJobs() {
   try {
-    const r = await fetch('../data/jobs.json');
+    const r = await fetch('data/jobs.json');
     if (r.ok) {
       const d = await r.json();
       JOBS = d.jobs || [];
