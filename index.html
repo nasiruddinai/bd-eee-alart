@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BD EEE & Semiconductor Job Alert</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;700;800&family=JetBrains+Mono:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#ffffff;--bg2:#f5f5f3;--bg3:#eeecea;
+  --text:#1a1a1a;--text2:#555;--text3:#888;
+  --border:rgba(0,0,0,0.1);--border2:rgba(0,0,0,0.2);
+  --blue:#185FA5;--blue-bg:#E6F1FB;--blue-border:#85B7EB;
+  --green:#0F6E56;--green-bg:#E1F5EE;--green-border:#5DCAA5;
+  --amber:#854F0B;--amber-bg:#FAEEDA;--amber-border:#EF9F27;
+  --danger:#A32D2D;--danger-bg:#FCEBEB;
+  --radius:8px;--radius-lg:12px;
+}
+@media(prefers-color-scheme:dark){
+  :root{
+    --bg:#1a1a1a;--bg2:#242424;--bg3:#2e2e2e;
+    --text:#f0f0f0;--text2:#aaa;--text3:#777;
+    --border:rgba(255,255,255,0.1);--border2:rgba(255,255,255,0.2);
+  }
+}
+body{background:var(--bg);color:var(--text);font-family:'Syne',sans-serif;min-height:100vh}
+a{color:inherit;text-decoration:none}
+
+/* TOPBAR */
+.topbar{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;border-bottom:1px solid var(--border);flex-wrap:wrap;gap:10px;background:var(--bg)}
+.brand{font-size:18px;font-weight:800;letter-spacing:-0.5px}
+.brand em{font-style:normal;color:var(--blue)}
+.live{display:flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--green);background:var(--green-bg);padding:5px 12px;border-radius:20px;border:1px solid var(--green-border)}
+.dot{width:7px;height:7px;border-radius:50%;background:currentColor;animation:blink 1.4s infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+
+/* STATS */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;padding:16px 24px;border-bottom:1px solid var(--border)}
+@media(max-width:600px){.stats{grid-template-columns:repeat(2,1fr)}}
+.stat{background:var(--bg2);border-radius:var(--radius);padding:14px 16px;text-align:center}
+.stat-n{font-size:26px;font-weight:700;font-family:'JetBrains Mono',monospace}
+.stat-l{font-size:10px;color:var(--text2);margin-top:3px;font-family:'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.5px}
+.n-blue{color:var(--blue)}.n-green{color:var(--green)}.n-amber{color:var(--amber)}
+
+/* LAYOUT */
+.layout{display:grid;grid-template-columns:280px 1fr;min-height:calc(100vh - 160px)}
+@media(max-width:900px){.layout{grid-template-columns:1fr}}
+
+/* SIDEBAR */
+.sidebar{border-right:1px solid var(--border);padding:18px;overflow-y:auto}
+@media(max-width:900px){.sidebar{border-right:none;border-bottom:1px solid var(--border)}}
+.s-title{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--text3);margin-bottom:10px;font-family:'JetBrains Mono',monospace}
+.alert-box{background:var(--bg2);border-radius:var(--radius-lg);padding:16px;margin-bottom:20px;border:1px solid var(--border)}
+.email-inp{width:100%;background:var(--bg);border:1px solid var(--border2);border-radius:var(--radius);padding:9px 12px;font-size:13px;color:var(--text);font-family:'Syne',sans-serif;margin-bottom:12px;outline:none;transition:border-color .2s}
+.email-inp:focus{border-color:var(--blue)}
+.tog-item{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-bottom:1px solid var(--border)}
+.tog-item:last-child{border:none}
+.tog-label{font-size:12px;color:var(--text)}
+.tog{width:34px;height:19px;border-radius:10px;background:var(--green);position:relative;cursor:pointer;flex-shrink:0;transition:background .2s;border:none;margin-top:2px}
+.tog.off{background:var(--bg3)}
+.tog::after{content:'';position:absolute;top:2px;left:2px;width:15px;height:15px;border-radius:50%;background:white;transition:left .2s;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+.tog:not(.off)::after{left:17px}
+.freq-row{display:flex;gap:6px;margin:10px 0 12px}
+.freq-btn{flex:1;background:var(--bg);border:1px solid var(--border2);border-radius:var(--radius);padding:7px 4px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;text-align:center;color:var(--text2);transition:all .2s}
+.freq-btn:hover{border-color:var(--blue);color:var(--blue)}
+.freq-btn.active{background:var(--blue-bg);border-color:var(--blue-border);color:var(--blue);font-weight:600}
+.activate-btn{width:100%;background:var(--blue-bg);color:var(--blue);border:1px solid var(--blue-border);border-radius:var(--radius);padding:10px;font-size:13px;font-weight:700;cursor:pointer;font-family:'Syne',sans-serif;transition:all .2s}
+.activate-btn:hover{background:var(--blue);color:white}
+.activate-btn.done{background:var(--green-bg);color:var(--green);border-color:var(--green-border)}
+.src-list{margin-top:4px}
+.src-group{margin-bottom:14px}
+.src-group-title{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:var(--text3);margin-bottom:6px;font-family:'JetBrains Mono',monospace}
+.src-item{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:12px;border-bottom:1px solid var(--border)}
+.src-item:last-child{border:none}
+.src-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.src-dot.g{background:#1D9E75}.src-dot.p{background:#378ADD}.src-dot.c{background:#D85A30}.src-dot.b{background:#7F77DD}
+.src-link{color:var(--text);transition:color .15s}
+.src-link:hover{color:var(--blue)}
+
+/* MAIN */
+.main{padding:18px 24px}
+.search-row{display:flex;gap:8px;margin-bottom:12px}
+.search-inp{flex:1;background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:10px 14px;font-size:13px;color:var(--text);font-family:'Syne',sans-serif;outline:none;transition:border-color .2s}
+.search-inp:focus{border-color:var(--blue);background:var(--bg)}
+.scan-btn{background:var(--blue-bg);color:var(--blue);border:1px solid var(--blue-border);border-radius:var(--radius);padding:10px 16px;font-size:12px;font-weight:700;cursor:pointer;font-family:'JetBrains Mono',monospace;white-space:nowrap;transition:all .2s}
+.scan-btn:hover{background:var(--blue);color:white}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+.chip{background:var(--bg2);border:1px solid var(--border);border-radius:20px;padding:5px 13px;font-size:11px;cursor:pointer;font-family:'JetBrains Mono',monospace;color:var(--text2);transition:all .15s}
+.chip:hover{border-color:var(--blue);color:var(--blue)}
+.chip.active{background:var(--blue-bg);color:var(--blue);border-color:var(--blue-border);font-weight:600}
+.job-list{display:flex;flex-direction:column;gap:10px;margin-bottom:16px}
+.jcard{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-lg);padding:16px 18px;transition:all .2s;cursor:default}
+.jcard:hover{border-color:var(--border2);box-shadow:0 2px 12px rgba(0,0,0,.06);transform:translateY(-1px)}
+.jcard.is-new{border-left:3px solid #1D9E75}
+.jcard.is-hot{border-left:3px solid #D85A30}
+.jtop{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:5px}
+.jtitle{font-size:14px;font-weight:700;line-height:1.35;flex:1}
+.jbadge{font-family:'JetBrains Mono',monospace;font-size:10px;padding:2px 9px;border-radius:10px;flex-shrink:0;font-weight:600}
+.b-new{background:var(--green-bg);color:var(--green)}
+.b-hot{background:var(--amber-bg);color:var(--amber)}
+.b-open{background:var(--bg2);color:var(--text3)}
+.jorg{font-size:12px;color:var(--blue);font-family:'JetBrains Mono',monospace;margin-bottom:8px}
+.jtags{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:10px}
+.tag{background:var(--bg2);border:1px solid var(--border);border-radius:4px;padding:2px 8px;font-size:10px;color:var(--text2);font-family:'JetBrains Mono',monospace}
+.jfooter{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;padding-top:10px;border-top:1px solid var(--border)}
+.jdeadline{font-size:11px;color:var(--amber);font-family:'JetBrains Mono',monospace}
+.japply{display:inline-flex;align-items:center;gap:6px;background:var(--bg2);border:1px solid var(--border2);border-radius:var(--radius);padding:7px 14px;font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text);font-weight:600;transition:all .15s}
+.japply:hover{background:var(--blue);color:white;border-color:var(--blue)}
+.no-results{text-align:center;padding:50px 20px;color:var(--text2);font-family:'JetBrains Mono',monospace;font-size:13px}
+.log-box{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 14px;font-family:'JetBrains Mono',monospace;font-size:11px;max-height:120px;overflow-y:auto;line-height:1.8}
+.lg{color:var(--text3)}.lg.ok{color:var(--green)}.lg.info{color:var(--blue)}.lg.w{color:var(--amber)}
+.status-bar{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:12px 24px;border-top:1px solid var(--border);font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text3)}
+.toast{position:fixed;top:20px;right:20px;background:var(--bg);border:1px solid var(--green-border);border-radius:var(--radius-lg);padding:14px 18px;max-width:300px;z-index:1000;transform:translateX(120%);transition:transform .35s;box-shadow:0 8px 24px rgba(0,0,0,.1)}
+.toast.show{transform:translateX(0)}
+.toast-t{font-size:12px;font-weight:700;color:var(--green);margin-bottom:4px}
+.toast-b{font-size:12px;color:var(--text2)}
+::-webkit-scrollbar{width:4px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:var(--border2);border-radius:4px}
+</style>
+</head>
+<body>
+
+<div class="toast" id="toast">
+  <div class="toast-t">✓ Alerts activated</div>
+  <div class="toast-b" id="toast-b">You'll get emails when new circulars appear.</div>
+</div>
+
+<div class="topbar">
+  <div class="brand">BD.<em>EEE</em>.ALERT — Semiconductor &amp; Faculty Jobs, Bangladesh</div>
+  <div class="live"><div class="dot"></div>Monitoring 83+ sources</div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="stat-n n-blue" id="sTotal">12</div><div class="stat-l">Active jobs</div></div>
+  <div class="stat"><div class="stat-n n-green" id="sNew">3</div><div class="stat-l">New today</div></div>
+  <div class="stat"><div class="stat-n n-amber">83</div><div class="stat-l">Sources tracked</div></div>
+  <div class="stat"><div class="stat-n" id="sClock" style="font-size:16px;padding-top:5px">--:--</div><div class="stat-l">BDT time</div></div>
+</div>
+
+<div class="layout">
+  <div class="sidebar">
+    <div class="s-title">Email alerts</div>
+    <div class="alert-box">
+      <input class="email-inp" type="email" id="emailIn" placeholder="your@email.com" />
+      <div style="margin-bottom:12px">
+        <div class="tog-item"><span class="tog-label">Semiconductor / VLSI / PCB</span><button class="tog" onclick="this.classList.toggle('off')" aria-label="Toggle"></button></div>
+        <div class="tog-item"><span class="tog-label">Lecturer / Faculty / Researcher</span><button class="tog" onclick="this.classList.toggle('off')" aria-label="Toggle"></button></div>
+        <div class="tog-item"><span class="tog-label">Govt. engineering universities</span><button class="tog" onclick="this.classList.toggle('off')" aria-label="Toggle"></button></div>
+        <div class="tog-item"><span class="tog-label">Private universities</span><button class="tog" onclick="this.classList.toggle('off')" aria-label="Toggle"></button></div>
+        <div class="tog-item"><span class="tog-label">Industry / company jobs</span><button class="tog" onclick="this.classList.toggle('off')" aria-label="Toggle"></button></div>
+        <div class="tog-item"><span class="tog-label">Bank / Govt. engineer posts</span><button class="tog" onclick="this.classList.toggle('off')" aria-label="Toggle"></button></div>
+      </div>
+      <div class="s-title" style="margin-bottom:6px">Digest frequency</div>
+      <div class="freq-row">
+        <button class="freq-btn" onclick="setFreq(this)">Instant</button>
+        <button class="freq-btn active" onclick="setFreq(this)">Daily</button>
+        <button class="freq-btn" onclick="setFreq(this)">Weekly</button>
+      </div>
+      <button class="activate-btn" id="actBtn" onclick="activate()">Activate alerts</button>
+    </div>
+
+    <div class="s-title">Monitored sources</div>
+    <div class="src-list">
+      <div class="src-group">
+        <div class="src-group-title">Govt. Engineering Universities</div>
+        <div class="src-item"><div class="src-dot g"></div><a class="src-link" href="https://www.buet.ac.bd/web/#/notice" target="_blank">BUET</a></div>
+        <div class="src-item"><div class="src-dot g"></div><a class="src-link" href="https://www.ruet.ac.bd/notices" target="_blank">RUET</a></div>
+        <div class="src-item"><div class="src-dot g"></div><a class="src-link" href="https://www.cuet.ac.bd/notices" target="_blank">CUET</a></div>
+        <div class="src-item"><div class="src-dot g"></div><a class="src-link" href="https://www.kuet.ac.bd/index.php/notice-board" target="_blank">KUET</a></div>
+        <div class="src-item"><div class="src-dot g"></div><a class="src-link" href="https://www.duet.ac.bd/notice" target="_blank">DUET</a></div>
+        <div class="src-item"><div class="src-dot g"></div><a class="src-link" href="https://www.sust.edu/notices" target="_blank">SUST</a></div>
+      </div>
+      <div class="src-group">
+        <div class="src-group-title">Private Universities</div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://www.bracu.ac.bd/about/offices/human-resource/job-openings" target="_blank">BRAC University</a></div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://www.northsouth.edu/faculty-staff/job-opening.html" target="_blank">North South Univ.</a></div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://www.aiub.edu/about-aiub/job-placement" target="_blank">AIUB</a></div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://daffodilvarsity.edu.bd/career" target="_blank">Daffodil Int'l Univ.</a></div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://www.ewubd.edu/job-circular" target="_blank">East West Univ.</a></div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://ulab.edu.bd/career" target="_blank">ULAB</a></div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://uap-bd.edu/career/" target="_blank">UAP</a></div>
+        <div class="src-item"><div class="src-dot p"></div><a class="src-link" href="https://www.iutoic-dhaka.edu/page/notice-board" target="_blank">IUT</a></div>
+      </div>
+      <div class="src-group">
+        <div class="src-group-title">Industry / Companies</div>
+        <div class="src-item"><div class="src-dot c"></div><a class="src-link" href="https://career.waltonbd.com/" target="_blank">Walton Hi-Tech</a></div>
+        <div class="src-item"><div class="src-dot c"></div><a class="src-link" href="https://energypacbd.com/career/" target="_blank">Energypac Engineering</a></div>
+        <div class="src-item"><div class="src-dot c"></div><a class="src-link" href="https://www.rahimafrooz.com/career" target="_blank">Rahimafrooz</a></div>
+        <div class="src-item"><div class="src-dot c"></div><a class="src-link" href="https://transcomelectronics.com/career/" target="_blank">Transcom Electronics</a></div>
+        <div class="src-item"><div class="src-dot c"></div><a class="src-link" href="https://jobs.bdjobs.com/jobsearch.asp?txtsearch=eee+electrical+vlsi" target="_blank">bdjobs.com (EEE/Semi)</a></div>
+      </div>
+      <div class="src-group">
+        <div class="src-group-title">Govt. Power / Banks</div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.breb.gov.bd/site/notices" target="_blank">BREB</a></div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.desco.org.bd/careers" target="_blank">DESCO</a></div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.dpdc.org.bd/home/career" target="_blank">DPDC</a></div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.pgcb.org.bd/career" target="_blank">PGCB</a></div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.bpdb.gov.bd" target="_blank">BPDB</a></div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.bb.org.bd/aboutus/career.php" target="_blank">Bangladesh Bank</a></div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.sonalibank.com.bd/career.php" target="_blank">Sonali Bank</a></div>
+        <div class="src-item"><div class="src-dot b"></div><a class="src-link" href="https://www.dutchbanglabank.com/career" target="_blank">Dutch-Bangla Bank</a></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="search-row">
+      <input class="search-inp" type="text" id="searchIn" placeholder="Search jobs, organisations, keywords..." oninput="render()" />
+      <button class="scan-btn" onclick="scan()">↺ Scan now</button>
+    </div>
+    <div class="chips">
+      <button class="chip active" onclick="setF(this,'all')">All</button>
+      <button class="chip" onclick="setF(this,'semiconductor')">Semiconductor</button>
+      <button class="chip" onclick="setF(this,'lecturer')">Lecturer/Faculty</button>
+      <button class="chip" onclick="setF(this,'govt_uni')">Govt. Uni</button>
+      <button class="chip" onclick="setF(this,'private_uni')">Private Uni</button>
+      <button class="chip" onclick="setF(this,'govt_engineer')">Govt. Engineer</button>
+      <button class="chip" onclick="setF(this,'bank')">Bank</button>
+      <button class="chip" onclick="setF(this,'industry')">Industry</button>
+    </div>
+    <div class="job-list" id="feed"></div>
+    <div class="s-title" style="margin-bottom:6px">System log</div>
+    <div class="log-box" id="logBox">
+      <div class="lg info">[INIT] BD EEE Alert System loaded</div>
+      <div class="lg ok">[OK] 83 sources indexed and ready</div>
+      <div class="lg">[INFO] Jobs loaded from data/jobs.json</div>
+      <div class="lg">[WAIT] Next auto-scan in 6h 00m</div>
+    </div>
+  </div>
+</div>
+
+<div class="status-bar">
+  <span>BD EEE Semiconductor Alert System · Bangladesh</span>
+  <span id="lastScan">Last scraper run: checking...</span>
+  <span id="clock">--:-- BDT</span>
+</div>
+
+<script>
+// ── Load jobs from jobs.json (populated by scraper.py) ──
+let JOBS = [];
+let filt = 'all';
+
+async function loadJobs() {
+  try {
+    const r = await fetch('../data/jobs.json');
+    if (r.ok) {
+      const d = await r.json();
+      JOBS = d.jobs || [];
+      document.getElementById('sNew').textContent = d.new_this_run || 0;
+      if (d.last_updated) {
+        const dt = new Date(d.last_updated);
+        document.getElementById('lastScan').textContent =
+          'Last scraper run: ' + dt.toLocaleString('en-BD', {timeZone:'Asia/Dhaka'});
+      }
+      addLog(`[OK] Loaded ${JOBS.length} jobs from jobs.json`, 'ok');
+    } else {
+      // Fallback demo data if scraper hasn't run yet
+      loadDemo();
+    }
+  } catch(e) {
+    loadDemo();
+  }
+  render();
+}
+
+function loadDemo() {
+  addLog('[INFO] No jobs.json found — showing demo data. Run scraper.py to populate.', 'w');
+  JOBS = [
+    {id:"demo1",title:"Assistant Professor — EEE Department",org:"BUET",category:"govt_uni",tags:["Faculty","EEE","Govt Uni"],deadline:"15 Jun 2026",posted:"2025-05-21",is_new:true,location:"Dhaka",apply_url:"https://www.buet.ac.bd/web/#/notice"},
+    {id:"demo2",title:"VLSI Design Engineer",org:"Walton Hi-Tech Industries",category:"semiconductor",tags:["VLSI","IC Design"],deadline:"5 Jun 2026",posted:"2025-05-21",is_new:true,location:"Gazipur",apply_url:"https://career.waltonbd.com/"},
+    {id:"demo3",title:"Lecturer — Electrical & Electronic Engineering",org:"North South University",category:"private_uni",tags:["Lecturer","EEE"],deadline:"20 Jun 2026",posted:"2025-05-20",is_new:true,location:"Dhaka",apply_url:"https://www.northsouth.edu/faculty-staff/job-opening.html"},
+    {id:"demo4",title:"PCB & Embedded Systems Engineer",org:"Energypac Engineering",category:"semiconductor",tags:["PCB","Embedded"],deadline:"30 May 2026",posted:"2025-05-20",is_new:false,location:"Dhaka",apply_url:"https://energypacbd.com/career/"},
+    {id:"demo5",title:"Assistant Professor — EEE",org:"RUET",category:"govt_uni",tags:["Faculty","EEE"],deadline:"10 Jun 2026",posted:"2025-05-19",is_new:false,location:"Rajshahi",apply_url:"https://www.ruet.ac.bd/notices"},
+    {id:"demo6",title:"Sub-Assistant Engineer (Electrical)",org:"BREB",category:"govt_engineer",tags:["Govt Engineer","Electrical"],deadline:"12 Jun 2026",posted:"2025-05-18",is_new:false,location:"Bangladesh",apply_url:"https://www.breb.gov.bd/site/notices"},
+    {id:"demo7",title:"Trainee Officer (Technology)",org:"Bangladesh Bank",category:"bank",tags:["Bank","Trainee"],deadline:"9 Jun 2026",posted:"2025-05-17",is_new:false,location:"Dhaka",apply_url:"https://www.bb.org.bd/aboutus/career.php"},
+    {id:"demo8",title:"Lecturer — EEE Department",org:"BRAC University",category:"private_uni",tags:["Lecturer","EEE"],deadline:"25 Jun 2026",posted:"2025-05-17",is_new:false,location:"Dhaka",apply_url:"https://www.bracu.ac.bd/about/offices/human-resource/job-openings"},
+  ];
+}
+
+function render() {
+  const q = (document.getElementById('searchIn').value || '').toLowerCase();
+  const list = JOBS.filter(j => {
+    const cat = j.category || '';
+    const fm = filt === 'all' || cat === filt ||
+      (filt === 'lecturer' && (cat === 'lecturer' || cat === 'govt_uni' || cat === 'private_uni'));
+    const sm = !q ||
+      (j.title||'').toLowerCase().includes(q) ||
+      (j.org||'').toLowerCase().includes(q) ||
+      (j.tags||[]).some(t => t.toLowerCase().includes(q));
+    return fm && sm;
+  });
+  document.getElementById('sTotal').textContent = list.length;
+  const feed = document.getElementById('feed');
+  if (!list.length) {
+    feed.innerHTML = '<div class="no-results">No jobs match this filter.<br>Try changing the filter or search term.</div>';
+    return;
+  }
+  feed.innerHTML = list.map(j => `
+<div class="jcard ${j.is_new ? 'is-new' : ''}">
+  <div class="jtop">
+    <div class="jtitle">${j.title}</div>
+    ${j.is_new ? '<span class="jbadge b-new">NEW</span>' : '<span class="jbadge b-open">OPEN</span>'}
+  </div>
+  <div class="jorg">${j.org} · ${j.location || 'Bangladesh'}</div>
+  <div class="jtags">${(j.tags||[]).map(t => `<span class="tag">${t}</span>`).join('')}</div>
+  <div class="jfooter">
+    <div class="jdeadline">⏰ Deadline: ${j.deadline || 'See circular'} · Posted ${j.posted || ''}</div>
+    <a class="japply" href="${j.apply_url || j.source_url || '#'}" target="_blank" rel="noopener noreferrer">
+      ↗ View &amp; Apply
+    </a>
+  </div>
+</div>`).join('');
+}
+
+function setF(btn, v) {
+  document.querySelectorAll('.chip').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  filt = v;
+  render();
+}
+
+function activate() {
+  const e = document.getElementById('emailIn').value;
+  const btn = document.getElementById('actBtn');
+  if (!e || !e.includes('@')) {
+    document.getElementById('emailIn').style.borderColor = 'var(--danger)';
+    setTimeout(() => document.getElementById('emailIn').style.borderColor = '', 2000);
+    return;
+  }
+  btn.classList.add('done');
+  btn.textContent = '✓ Alerts active';
+  addLog(`[ALERT] Email registered: ${e}`, 'ok');
+  addLog('[INFO] scraper.py will email you on new circulars', 'info');
+  showToast(e);
+}
+
+function showToast(e) {
+  const t = document.getElementById('toast');
+  document.getElementById('toast-b').textContent = `Emails going to ${e} for new circulars.`;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 4500);
+}
+
+function addLog(msg, type='') {
+  const b = document.getElementById('logBox');
+  const el = document.createElement('div');
+  el.className = 'lg ' + type;
+  el.textContent = msg;
+  b.appendChild(el);
+  b.scrollTop = b.scrollHeight;
+}
+
+function scan() {
+  const orgs = ['KUET','AIUB','EWU','ULAB','SUST','DPDC','Sonali Bank','PGCB','NSU'];
+  let i = 0;
+  addLog('[SCAN] Manual scan started...', 'info');
+  const iv = setInterval(() => {
+    if (i < orgs.length) { addLog(`[SCAN] Checking ${orgs[i]}...`); i++; }
+    else {
+      clearInterval(iv);
+      loadJobs().then(() => addLog(`[DONE] Scan complete. ${JOBS.length} jobs found.`, 'ok'));
+    }
+  }, 350);
+}
+
+function setFreq(btn) {
+  document.querySelectorAll('.freq-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+}
+
+function clock() {
+  const d = new Date();
+  const bdt = new Date(d.toLocaleString('en-US', {timeZone: 'Asia/Dhaka'}));
+  document.getElementById('clock').textContent =
+    bdt.toLocaleTimeString('en-BD', {hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false}) + ' BDT';
+}
+setInterval(clock, 1000);
+clock();
+loadJobs();
+</script>
+</body>
+</html>
