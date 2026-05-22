@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T14:52:59.339099+00:00",
-  "new_this_run": 51,
+  "last_updated": "2026-05-22T19:54:40.430976+00:00",
+  "new_this_run": 1,
   "jobs": [
     {
       "id": "a3bbaf460e",
@@ -14,7 +14,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -31,7 +31,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -48,7 +48,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -65,7 +65,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -82,7 +82,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/information/scholarship",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -99,7 +99,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/information/payment-fees",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -116,7 +116,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -133,9 +133,26 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "3cc2b99a23",
+      "title": "Campus Life",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://iutoic-dhaka.edu/admission",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -150,7 +167,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -167,7 +184,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -184,7 +201,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_calendar",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -201,7 +218,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -218,7 +235,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -235,7 +252,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://library.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -252,7 +269,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -269,7 +286,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -286,26 +303,9 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "192fea08f0",
-      "title": "Research, Extension, Advisory Services and Publications (REASP)",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -320,7 +320,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -337,7 +337,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -354,7 +354,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -371,7 +371,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -388,7 +388,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -405,7 +405,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -422,7 +422,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -439,7 +439,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -456,7 +456,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -473,7 +473,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -490,7 +490,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/office-of-the-pro-vice-chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -507,7 +507,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/board-members",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -524,7 +524,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://provost.male.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -541,7 +541,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://provost.female.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -558,7 +558,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/establishment_office",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -575,7 +575,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/finance_and_accounts_office",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -592,7 +592,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/planning_and_development_office",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -609,7 +609,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://ict.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -626,7 +626,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -643,7 +643,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/committees",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -660,7 +660,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/about-iut/former-directors-director-generals-vcs",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -677,7 +677,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -694,7 +694,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-vice-chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -711,7 +711,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-registrar",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -728,7 +728,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-fps",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -745,7 +745,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-(fet)",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -762,7 +762,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-(fste)",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -779,7 +779,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/news-letters",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -796,7 +796,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/e-resources",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -813,7 +813,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/2025-solemn-journey",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -830,7 +830,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/iut-lms-manual",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -847,7 +847,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://sis.iutoic-dhaka.edu",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -864,7 +864,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
@@ -1040,8 +1040,8 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
+      "id": "45fca5e14e",
+      "title": "Artofliving",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -1053,7 +1053,7 @@
       "posted": "2026-05-22",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1581,23 +1581,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2232,8 +2215,25 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -2243,10 +2243,27 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "8c03cbfce8",
@@ -5068,23 +5085,6 @@
       "is_new": false,
       "location": "Chittagong",
       "apply_url": "https://www.cuet.ac.bd/department/BME",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "838541b57d",
-      "title": "Chemistry",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/Chemistry",
       "source_url": "https://www.cuet.ac.bd/notices"
     }
   ]
