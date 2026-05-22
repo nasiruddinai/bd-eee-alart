@@ -5,4 +5,3 @@ pdfplumber
 pdf2image
 pytesseract
 Pillow
-playwright
