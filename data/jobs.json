@@ -1,7 +1,874 @@
 {
-  "last_updated": "2026-05-22T13:39:11.135630+00:00",
-  "new_this_run": 82,
+  "last_updated": "2026-05-22T14:52:59.339099+00:00",
+  "new_this_run": 51,
   "jobs": [
+    {
+      "id": "a3bbaf460e",
+      "title": "Islamic University of TechnologyA subsidiary organ of Organisation of Islamic Cooperation(OIC)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d80365e5f4",
+      "title": "Recruitment Notice — IUT",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "594c329372",
+      "title": "Apply Now",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "99f168f679",
+      "title": "Admission Page",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "27869b1b63",
+      "title": "Financial Aid",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/information/scholarship",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ebd25b22f6",
+      "title": "Student Fees",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/information/payment-fees",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e1e0cb03ce",
+      "title": "Admission Roadmap",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "14db86633f",
+      "title": "International Students",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "383d3fd19d",
+      "title": "IUT: Mission and vision",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ba4d4ac4ae",
+      "title": "Academic Life",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1b39e90c3f",
+      "title": "Academic Calendar",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_calendar",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "07870a98e3",
+      "title": "Institutes",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c5c05c4a99",
+      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://library.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "be7b4d4345",
+      "title": "Research Group",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bb10024214",
+      "title": "MOU and Linkage",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "53ff6eb2af",
+      "title": "Residence and Cafeteria",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "8fa0eb4db9",
+      "title": "Halls of Residence (Female)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "75027ccba1",
+      "title": "Societies",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ec26e861fd",
+      "title": "Office of International Affairs and External Communications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://iaec.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "29989bf13f",
+      "title": "Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "871295d136",
+      "title": "Office of the Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "263b715cf1",
+      "title": "Office of the Pro Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office-of-the-pro-vice-chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "7084516f95",
+      "title": "Board Members",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/board-members",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bc6714b9fd",
+      "title": "Office of the Provost (Male)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://provost.male.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c264c0c2da",
+      "title": "Office of the Provost (Female)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://provost.female.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1d4cfab0dd",
+      "title": "Human Resource and Cabinet Office",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/establishment_office",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1fcaa47f24",
+      "title": "Finance and Accounts Office",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/finance_and_accounts_office",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e2828c7d55",
+      "title": "Planning, Procurement and Development Office",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/planning_and_development_office",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "83135e757f",
+      "title": "ICT Centre",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://ict.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "6834c32b34",
+      "title": "University Medical Centre",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ea1527ecd3",
+      "title": "Committees",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/committees",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "a180b70a80",
+      "title": "Former VCs/Director Generals/Directors",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/about-iut/former-directors-director-generals-vcs",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "87ea8cc269",
+      "title": "Rules and Regulations",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c1a7afe479",
+      "title": "Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-vice-chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ef19364a41",
+      "title": "Registrar",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-registrar",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "feccc48ee5",
+      "title": "Dean (Faculty of Postgraduate Studies)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-fps",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bdb9e54d91",
+      "title": "Dean (Faculty of Engineering and Technology)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-(fet)",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d93fc75a81",
+      "title": "Dean (Faculty of Science and Technical Education)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-dean-(fste)",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "7a3da55501",
+      "title": "News Letters",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/news-letters",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "35e74147ac",
+      "title": "Resources",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/e-resources",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e429a9aed2",
+      "title": "IUT: A Solemn Journey 2025",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/2025-solemn-journey",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bcfd12c7b9",
+      "title": "IUT LMS Manual",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/iut-lms-manual",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "eccf6543ef",
+      "title": "Student Information System",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://sis.iutoic-dhaka.edu",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "5966e75ce6",
+      "title": "Admission",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
     {
       "id": "5499f72933",
       "title": "Request for Information",
@@ -14,7 +881,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/admission-contact",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -31,7 +898,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/contact",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -48,7 +915,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/copyright-issue",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -65,7 +932,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/security-issues",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -82,7 +949,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://webbackend.daffodilvarsity.edu.bd/photos/pdf/Report-on-traffic-mgt.pdf",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -99,7 +966,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/location",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -116,7 +983,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/corona",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -133,7 +1000,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodil.group/about/family-logo",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -150,7 +1017,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -167,7 +1034,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://campuslife.daffodil.university/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -184,10 +1051,1185 @@
       ],
       "deadline": "See circular",
       "posted": "2026-05-22",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "d2dbb1b83c",
+      "title": "DIU Annual Report",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/flipbook/diu-annual-report",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "3068347238",
+      "title": "Brochure",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/flipbook/brochure",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "1143957492",
+      "title": "Prospectus",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/prospectus",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "e1cb4734c4",
+      "title": "Brand Documents",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/article/downloads",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "3ce01da4a7",
+      "title": "Discount Partners",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/discount-partners",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "8ff720e260",
+      "title": "Students",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/students",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "e72c10a52d",
+      "title": "Teachers",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/teachers",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "1c6c80a15b",
+      "title": "Administration",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/administration",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "c1b2aa57b1",
+      "title": "Contact\n                                            Us",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/contact-us",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "6704a67813",
+      "title": "Mail MS Teams Contact",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "64b0346c08",
+      "title": "Information or Overview",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/Information",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "a9f0e34d7e",
+      "title": "General Information",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/general-information",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "66a6702391",
+      "title": "Rules of Campus Entry",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/Rules-Of-Entry",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "54282563bc",
+      "title": "Why Study Here",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/Why-Study-Here",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "e709ae0f8d",
+      "title": "Resources",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/Resources",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "bb0d3e2285",
+      "title": "Convocation",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/Convocation",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "b37c1c582e",
+      "title": "Faculty of Arts and Social\n                                                    Sciences",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/faculties/fass",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "e4c141f240",
+      "title": "Faculty of Business\n                                                    Administration",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/faculties/fba",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "465fa70299",
+      "title": "Faculty of Engineering",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/faculties/engg",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "a2e86b94a8",
+      "title": "Faculty of Health and Life Sciences",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/faculties/fhls",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "e73bd82709",
+      "title": "Faculty of Science and\n                                                    Technology",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/faculties/fst",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "a8afab2b6b",
+      "title": "Academic Calendar",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/academic-calendar",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "ee5479050e",
+      "title": "Academic Regulations",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/academic-regulations",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "a92867793a",
+      "title": "Tuition Fee",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/tuition-fee",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "1606246086",
+      "title": "Faculty List",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/Faculty-List",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "5b48e61399",
+      "title": "Internationalization",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/partnerships/internationalization",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "3b48281ad5",
+      "title": "Academic\n                                                    Partners",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/partnerships/academic-partners",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "34bca1b160",
+      "title": "Strategic\n                                                    Partners",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/partnerships/strategic-partners",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "349d54cbf6",
+      "title": "Institute of Continuing\n                                                    Education",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://ice.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "92d1b12700",
+      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://d2a2i.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "5c71a2aa1b",
+      "title": "The\n                                                    Pro Vice Chancellor",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/faculty-list/faculty-profile?q=arahman#arahman@aiub.edu",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "51a3174767",
+      "title": "The Chairman",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/Administration/The-Chairman",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "81dec11355",
+      "title": "The Founders",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/Administration/The-Founders",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "3764a1ebf3",
+      "title": "Institutional\n                                                    Policy",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/administration/institutional-policy",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "9d4e97b611",
+      "title": "Office of Controller of\n                                                            Examinations",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/oce",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "bc5e40677e",
+      "title": "Office of Cultural\n                                                            Affairs",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/oca",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "346a7030ea",
+      "title": "Office of Finance and\n                                                            Audit",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/ofa",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "13cd843a0c",
+      "title": "Office of Human\n                                                            Resources",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/hrd",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "9a6773cd47",
+      "title": "Office of Placement &\n                                                            Alumni",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/opa",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c8814ac65e",
+      "title": "Office of Planning &\n                                                            Development",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/opd",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "faa3b465aa",
+      "title": "Office of Probation",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/op",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "9cddfcc372",
+      "title": "Office of Public\n                                                            Relations",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/opr",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "0048617da3",
+      "title": "Office of Registrar",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/or",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "408d062921",
+      "title": "Office of Sports",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/os",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "52027a2a2c",
+      "title": "Office of Student\n                                                            Affairs",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/offices/osa",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c9cff369eb",
+      "title": "Research Overview",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/research",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "4bdf2acf70",
+      "title": "Faculty Publications",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/publications",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "1dc809db2a",
+      "title": "Student\n                                                            Publications",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/Files/student-research/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "56f6e5305a",
+      "title": "Recruitment Notice — AIUB",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://ajbe.aiub.edu/index.php/ajbe",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "024e5e2045",
+      "title": "Research Groups",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/files/research/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "27ccbcfc7f",
+      "title": "Research Labs",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/research/research-lab",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "4b3c6edec5",
+      "title": "AI Supercomputing Lab",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/research/research-lab/ai-supercomputing-lab",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "20f826a68a",
+      "title": "Cyber Security and Digital Forensics Lab",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/research/research-lab/cyber-security-and-digital-forensics-laboratory",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "82ab97e0b1",
+      "title": "Recruitment Notice — Rahimafrooz",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "46b8e39e8e",
+      "title": "Our Group",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c4b40dbaa8",
+      "title": "About Us",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/about-us/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "5e6496cc8d",
+      "title": "Milestones",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/milestones/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c524d64676",
+      "title": "Awards & Achievement",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/awards-achievement/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c9156246e2",
+      "title": "Our Businesses",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/companies/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "3c3a911a08",
+      "title": "Companies",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/companies/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "f3fd98ac98",
+      "title": "Other Ventures",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "b0a4d0f514",
+      "title": "Core Knowledge",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "1159b0af7b",
+      "title": "MetroNet Bangladesh Ltd.",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "42475add17",
+      "title": "Products & Services",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/our-products/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c8c25784a5",
+      "title": "Community",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "29372a6129",
+      "title": "Sustainability",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "2c25f6f123",
+      "title": "Rural Services Foundation",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "15891ca11a",
+      "title": "Press Reports & Features",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-22",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
+      "source_url": "https://www.rahimafrooz.com/career"
     },
     {
       "id": "45fca5e14e",
@@ -205,1181 +2247,6 @@
       "location": "Dhaka",
       "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "d2dbb1b83c",
-      "title": "DIU Annual Report",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/flipbook/diu-annual-report",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "3068347238",
-      "title": "Brochure",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/flipbook/brochure",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "1143957492",
-      "title": "Prospectus",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/prospectus",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "e1cb4734c4",
-      "title": "Brand Documents",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/article/downloads",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "3ce01da4a7",
-      "title": "Discount Partners",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/discount-partners",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "8ff720e260",
-      "title": "Students",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/students",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "e72c10a52d",
-      "title": "Teachers",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/teachers",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "1c6c80a15b",
-      "title": "Administration",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/administration",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "c1b2aa57b1",
-      "title": "Contact\n                                            Us",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/contact-us",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "6704a67813",
-      "title": "Mail MS Teams Contact",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "64b0346c08",
-      "title": "Information or Overview",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/Information",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "a9f0e34d7e",
-      "title": "General Information",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/general-information",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "66a6702391",
-      "title": "Rules of Campus Entry",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/Rules-Of-Entry",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "54282563bc",
-      "title": "Why Study Here",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/Why-Study-Here",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "e709ae0f8d",
-      "title": "Resources",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/Resources",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "bb0d3e2285",
-      "title": "Convocation",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/Convocation",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "b37c1c582e",
-      "title": "Faculty of Arts and Social\n                                                    Sciences",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/faculties/fass",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "e4c141f240",
-      "title": "Faculty of Business\n                                                    Administration",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/faculties/fba",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "465fa70299",
-      "title": "Faculty of Engineering",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/faculties/engg",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "a2e86b94a8",
-      "title": "Faculty of Health and Life Sciences",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/faculties/fhls",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "e73bd82709",
-      "title": "Faculty of Science and\n                                                    Technology",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/faculties/fst",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "a8afab2b6b",
-      "title": "Academic Calendar",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/academic-calendar",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "ee5479050e",
-      "title": "Academic Regulations",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/academic-regulations",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "a92867793a",
-      "title": "Tuition Fee",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/tuition-fee",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "1606246086",
-      "title": "Faculty List",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/Faculty-List",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "5b48e61399",
-      "title": "Internationalization",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/partnerships/internationalization",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "3b48281ad5",
-      "title": "Academic\n                                                    Partners",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/partnerships/academic-partners",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "34bca1b160",
-      "title": "Strategic\n                                                    Partners",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/partnerships/strategic-partners",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "349d54cbf6",
-      "title": "Institute of Continuing\n                                                    Education",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://ice.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "92d1b12700",
-      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://d2a2i.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "5c71a2aa1b",
-      "title": "The\n                                                    Pro Vice Chancellor",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/faculty-list/faculty-profile?q=arahman#arahman@aiub.edu",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "51a3174767",
-      "title": "The Chairman",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/Administration/The-Chairman",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "81dec11355",
-      "title": "The Founders",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/Administration/The-Founders",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "3764a1ebf3",
-      "title": "Institutional\n                                                    Policy",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/administration/institutional-policy",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "9d4e97b611",
-      "title": "Office of Controller of\n                                                            Examinations",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/oce",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "bc5e40677e",
-      "title": "Office of Cultural\n                                                            Affairs",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/oca",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "346a7030ea",
-      "title": "Office of Finance and\n                                                            Audit",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/ofa",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "13cd843a0c",
-      "title": "Office of Human\n                                                            Resources",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/hrd",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "9a6773cd47",
-      "title": "Office of Placement &\n                                                            Alumni",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/opa",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "c8814ac65e",
-      "title": "Office of Planning &\n                                                            Development",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/opd",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "faa3b465aa",
-      "title": "Office of Probation",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/op",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "9cddfcc372",
-      "title": "Office of Public\n                                                            Relations",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/opr",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "0048617da3",
-      "title": "Office of Registrar",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/or",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "408d062921",
-      "title": "Office of Sports",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/os",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "52027a2a2c",
-      "title": "Office of Student\n                                                            Affairs",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/offices/osa",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "c9cff369eb",
-      "title": "Research Overview",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/research",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "4bdf2acf70",
-      "title": "Faculty Publications",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/publications",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "1dc809db2a",
-      "title": "Student\n                                                            Publications",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/Files/student-research/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "56f6e5305a",
-      "title": "Recruitment Notice — AIUB",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://ajbe.aiub.edu/index.php/ajbe",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "024e5e2045",
-      "title": "Research Groups",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/files/research/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "27ccbcfc7f",
-      "title": "Research Labs",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/research/research-lab",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "4b3c6edec5",
-      "title": "AI Supercomputing Lab",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/research/research-lab/ai-supercomputing-lab",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "20f826a68a",
-      "title": "Cyber Security and Digital Forensics Lab",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/research/research-lab/cyber-security-and-digital-forensics-laboratory",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "82ab97e0b1",
-      "title": "Recruitment Notice — Rahimafrooz",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "46b8e39e8e",
-      "title": "Our Group",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c4b40dbaa8",
-      "title": "About Us",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/about-us/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "5e6496cc8d",
-      "title": "Milestones",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/milestones/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c524d64676",
-      "title": "Awards & Achievement",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/awards-achievement/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c9156246e2",
-      "title": "Our Businesses",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/companies/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "3c3a911a08",
-      "title": "Companies",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/companies/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "f3fd98ac98",
-      "title": "Other Ventures",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "b0a4d0f514",
-      "title": "Core Knowledge",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "1159b0af7b",
-      "title": "MetroNet Bangladesh Ltd.",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "42475add17",
-      "title": "Products & Services",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/our-products/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c8c25784a5",
-      "title": "Community",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "29372a6129",
-      "title": "Sustainability",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "2c25f6f123",
-      "title": "Rural Services Foundation",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "15891ca11a",
-      "title": "Press Reports & Features",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": true,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
-      "source_url": "https://www.rahimafrooz.com/career"
     },
     {
       "id": "8c03cbfce8",
@@ -4218,873 +5085,6 @@
       "is_new": false,
       "location": "Chittagong",
       "apply_url": "https://www.cuet.ac.bd/department/Chemistry",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "655489aec8",
-      "title": "Civil Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/CE",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "4d594a923b",
-      "title": "Computer Science & Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/cse",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "f714bd8ea9",
-      "title": "Disaster Engineering And Management",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/DEM",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "3882328f99",
-      "title": "Electrical and Electronic Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/EEE",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "5dbe4eca99",
-      "title": "Electronics & Telecommunication Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/ETE",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "73c199ccbe",
-      "title": "Humanities",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/hum",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "af5915a883",
-      "title": "Materials and Metallurgical Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/MME",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "a817b764de",
-      "title": "Mathematics",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/Mathematics",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "693953effc",
-      "title": "Mechanical Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/ME",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "c9c1aff72c",
-      "title": "Mechatronics & Industrial Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/MIE",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "7c3e9335ec",
-      "title": "Nuclear Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/NE",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "7736a88944",
-      "title": "Petroleum And Mining Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/PME",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "9cbbb05e03",
-      "title": "Physics",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/Physics",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "7f5a5bdd0d",
-      "title": "Urban & Regional Planning",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/URP",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "513266e443",
-      "title": "Water Resources Engineering",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/department/WRE",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "fa054d6dd3",
-      "title": "Institutes",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/institutes",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "c5b0b8be7b",
-      "title": "IRHES",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/institutes/IRHES",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "3b987be97e",
-      "title": "Centers",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/centers",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "277ee83104",
-      "title": "ceser",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/centers/ceser",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "46dda47ac3",
-      "title": "physical-education",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/centers/physical-education-2",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "be09d71512",
-      "title": "Administration",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/administration",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "fe07266ed3",
-      "title": "News & Events",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/news-events",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "ff22707e30",
-      "title": "Alumni",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://alumni.cuet.ac.bd/",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "ff620832df",
-      "title": "Scholarship & Financial Aids",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/student/scholarship-financial-aids",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "2fdb9b14d2",
-      "title": "Halls of Residence",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/student/halls",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "23e2729360",
-      "title": "Student Organizations",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/student/organizations",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "69c0b096d6",
-      "title": "Student Notices",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/student/notices",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "83601bd437",
-      "title": "E-Resources",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/e-resources",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "e351700a80",
-      "title": "Events",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/student/events",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "ce706f8caa",
-      "title": "Downloads",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/downloads",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "b248bd612d",
-      "title": "Journal Paper",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/research/journal-paper",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "b673153eeb",
-      "title": "Conference Paper",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/research/conference-paper",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "5984b2edc7",
-      "title": "Partnership",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/research/partnership",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "f283f7d72e",
-      "title": "All Notices",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/notices/all-notice",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "0a2297f287",
-      "title": "General Notices",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/notices/general",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "1fe3136edd",
-      "title": "Appointments",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/notices/appointments",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "8dfdb6c6c3",
-      "title": "Offices Orders/NOC",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/notices/noc",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "2e33ae3176",
-      "title": "Academic Calender",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/notices/academic-calender",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "d82345fa9b",
-      "title": "Tender/E-Tender",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/notices/tender",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "e92a19b606",
-      "title": "Annual Procurement Plan(Goods and Related services)",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://app.cuet.ac.bd//storage/Notices/68d0d0992efd5.pdf",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "d2fed6c15d",
-      "title": "History of CUET",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/about/history",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "32afb02ecb",
-      "title": "About CUET",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/about/cuet",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "7fc446be8a",
-      "title": "Vision and Mission",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/about/vision-and-mission",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "20c3fb786e",
-      "title": "Previous Vice Chancellors",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/about/previous-vc",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "9d6fcecf34",
-      "title": "Campus Map",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/about/campus-map",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "3e67f7217d",
-      "title": "Photo Gallery",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/about/photo-gallery",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "08dd4a637f",
-      "title": "Contact Us",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/about/contact",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "87aaddb951",
-      "title": "Admission",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/admission",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "9cb4e0761d",
-      "title": "Research Highlights",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/research-highlights",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "eae28e36ad",
-      "title": "Research Area",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/research-area",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "16dc60d72b",
-      "title": "Publication",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/research-type/publication",
       "source_url": "https://www.cuet.ac.bd/notices"
     }
   ]
