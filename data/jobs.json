@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T10:14:54.330329+00:00",
+  "last_updated": "2026-05-25T19:47:43.128383+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -717,8 +717,8 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
+      "id": "c3fe6b52f4",
+      "title": "Admission",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -730,7 +730,7 @@
       "posted": "2026-05-25",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
+      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -1301,22 +1301,6 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "c8c25784a5",
-      "title": "Community",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-25",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
       "id": "29372a6129",
       "title": "Sustainability",
       "org": "Rahimafrooz",
@@ -1365,8 +1349,24 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
+      "id": "c8c25784a5",
+      "title": "Community",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-25",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -1378,7 +1378,7 @@
       "posted": "2026-05-25",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
