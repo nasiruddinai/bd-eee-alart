@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T04:06:00.698735+00:00",
+  "last_updated": "2026-05-27T10:00:13.348072+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -122,8 +122,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "3cc2b99a23",
-      "title": "Campus Life",
+      "id": "14db86633f",
+      "title": "International Students",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -135,7 +135,7 @@
       "posted": "2026-05-27",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "http://iutoic-dhaka.edu/admission",
+      "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1020,6 +1020,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-27",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2215,6 +2232,23 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "3cc2b99a23",
+      "title": "Campus Life",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-27",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://iutoic-dhaka.edu/admission",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "52fd0cc8df",
       "title": "On Campus",
       "org": "AIUB",
@@ -2230,40 +2264,6 @@
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "14db86633f",
-      "title": "International Students",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-26",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-26",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "8c03cbfce8",
