@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T03:52:51.961786+00:00",
+  "last_updated": "2026-05-28T10:11:56.497830+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -207,6 +207,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-28",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "07870a98e3",
       "title": "Institutes",
       "org": "IUT",
@@ -272,23 +289,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "be7b4d4345",
-      "title": "Research Group",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-28",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1023,23 +1023,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-28",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -1581,6 +1564,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://d2a2i.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-28",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2232,8 +2232,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "4b966b4567",
-      "title": "Faculties and Department",
+      "id": "be7b4d4345",
+      "title": "Research Group",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2242,16 +2242,16 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-05-27",
+      "posted": "2026-05-28",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
         "Lecturer",
@@ -2259,11 +2259,11 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-05-27",
+      "posted": "2026-05-28",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
+      "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "8c03cbfce8",
