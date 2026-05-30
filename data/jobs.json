@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T08:36:02.819291+00:00",
+  "last_updated": "2026-05-30T13:47:41.691271+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -207,6 +207,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-30",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "07870a98e3",
       "title": "Institutes",
       "org": "IUT",
@@ -340,23 +357,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-30",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1037,23 +1037,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-30",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1992,23 +1975,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "4b966b4567",
-      "title": "Faculties and Department",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-30",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "82ab97e0b1",
       "title": "Recruitment Notice — Rahimafrooz",
       "org": "Rahimafrooz",
@@ -2247,6 +2213,40 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-30",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-30",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "52fd0cc8df",
