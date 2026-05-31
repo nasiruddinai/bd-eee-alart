@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:08:18.008014+00:00",
+  "last_updated": "2026-05-31T08:54:03.504948+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -85,6 +85,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/information/scholarship",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ebd25b22f6",
+      "title": "Student Fees",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-31",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/information/payment-fees",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -289,23 +306,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "192fea08f0",
-      "title": "Research, Extension, Advisory Services and Publications (REASP)",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-31",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1023,6 +1023,23 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-05-31",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -1037,23 +1054,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-31",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1567,8 +1567,8 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
+      "id": "52fd0cc8df",
+      "title": "On Campus",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -1580,7 +1580,7 @@
       "posted": "2026-05-31",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2215,8 +2215,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "ebd25b22f6",
-      "title": "Student Fees",
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2225,15 +2225,15 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-05-30",
+      "posted": "2026-05-31",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "http://admission.iutoic-dhaka.edu/information/payment-fees",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
+      "id": "45fca5e14e",
+      "title": "Artofliving",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -2242,15 +2242,15 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-05-30",
+      "posted": "2026-05-31",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
+      "id": "c3fe6b52f4",
+      "title": "Admission",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -2259,10 +2259,10 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-05-30",
+      "posted": "2026-05-31",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
+      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
