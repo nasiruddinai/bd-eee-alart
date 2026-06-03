@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T17:01:45.873134+00:00",
+  "last_updated": "2026-06-03T21:06:24.852539+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -173,23 +173,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ba4d4ac4ae",
-      "title": "Academic Life",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-03",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "1b39e90c3f",
       "title": "Academic Calendar",
       "org": "IUT",
@@ -272,6 +255,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-03",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2215,8 +2215,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
+      "id": "ba4d4ac4ae",
+      "title": "Academic Life",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2228,7 +2228,7 @@
       "posted": "2026-06-03",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
