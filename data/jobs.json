@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T04:18:01.558461+00:00",
+  "last_updated": "2026-06-04T10:06:57.306833+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -105,23 +105,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "e1e0cb03ce",
-      "title": "Admission Roadmap",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-04",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "14db86633f",
       "title": "International Students",
       "org": "IUT",
@@ -136,6 +119,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "3cc2b99a23",
+      "title": "Campus Life",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-04",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://iutoic-dhaka.edu/admission",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -989,23 +989,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "c23f6c505a",
-      "title": "Logos (Daffodil Group)",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-04",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://daffodil.group/about/family-logo",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "1b47b274b9",
       "title": "Bangladesh Corner",
       "org": "Daffodil International University",
@@ -1040,8 +1023,8 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
+      "id": "45fca5e14e",
+      "title": "Artofliving",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -1053,7 +1036,7 @@
       "posted": "2026-06-04",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1584,8 +1567,8 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
+      "id": "5c71a2aa1b",
+      "title": "The\n                                                    Pro Vice Chancellor",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -1597,7 +1580,7 @@
       "posted": "2026-06-04",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
+      "apply_url": "https://www.aiub.edu/faculty-list/faculty-profile?q=arahman#arahman@aiub.edu",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2232,8 +2215,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "3cc2b99a23",
-      "title": "Campus Life",
+      "id": "e1e0cb03ce",
+      "title": "Admission Roadmap",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2242,15 +2225,15 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-03",
+      "posted": "2026-06-04",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "http://iutoic-dhaka.edu/admission",
+      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
+      "id": "c23f6c505a",
+      "title": "Logos (Daffodil Group)",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -2259,15 +2242,32 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-03",
+      "posted": "2026-06-04",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
+      "apply_url": "https://daffodil.group/about/family-logo",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "5c71a2aa1b",
-      "title": "The\n                                                    Pro Vice Chancellor",
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-04",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -2276,10 +2276,10 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-03",
+      "posted": "2026-06-04",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/faculty-list/faculty-profile?q=arahman#arahman@aiub.edu",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
