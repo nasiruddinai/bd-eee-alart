@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T03:45:26.413374+00:00",
+  "last_updated": "2026-06-06T08:41:59.190438+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -156,6 +156,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "383d3fd19d",
+      "title": "IUT: Mission and vision",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-06",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "ba4d4ac4ae",
       "title": "Academic Life",
       "org": "IUT",
@@ -238,23 +255,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://library.iutoic-dhaka.edu/",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "f06972ed0c",
-      "title": "Student Statistics",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-06",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2249,8 +2249,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "383d3fd19d",
-      "title": "IUT: Mission and vision",
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2259,10 +2259,10 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-05",
+      "posted": "2026-06-06",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
