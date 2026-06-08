@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T04:19:36.978202+00:00",
-  "new_this_run": 1,
+  "last_updated": "2026-06-08T11:05:04.713895+00:00",
+  "new_this_run": 0,
   "jobs": [
     {
       "id": "a3bbaf460e",
@@ -224,6 +224,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "07870a98e3",
+      "title": "Institutes",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-08",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "c5c05c4a99",
       "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
       "org": "IUT",
@@ -340,23 +357,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-08",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1054,23 +1054,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-08",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2249,6 +2232,40 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-08",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-08",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
       "id": "62fc37db8c",
       "title": "Schedule Of Charges Of Banks",
       "org": "Bangladesh Bank",
@@ -2263,23 +2280,6 @@
       "location": "Dhaka",
       "apply_url": "https://www.bb.org.bd/en/index.php/financialactivity/schedule_charg",
       "source_url": "https://www.bb.org.bd/aboutus/career.php"
-    },
-    {
-      "id": "07870a98e3",
-      "title": "Institutes",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-07",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "52fd0cc8df",
