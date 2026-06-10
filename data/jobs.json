@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T10:10:25.880600+00:00",
+  "last_updated": "2026-06-10T15:46:14.561514+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -258,23 +258,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "f06972ed0c",
-      "title": "Student Statistics",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-10",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "d0d7ee50dc",
       "title": "Publications",
       "org": "IUT",
@@ -289,6 +272,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "be7b4d4345",
+      "title": "Research Group",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-10",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -986,23 +986,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/corona",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "c23f6c505a",
-      "title": "Logos (Daffodil Group)",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-10",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://daffodil.group/about/family-logo",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2153,22 +2136,6 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "1159b0af7b",
-      "title": "MetroNet Bangladesh Ltd.",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-10",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
       "id": "42475add17",
       "title": "Products & Services",
       "org": "Rahimafrooz",
@@ -2249,8 +2216,24 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "be7b4d4345",
-      "title": "Research Group",
+      "id": "1159b0af7b",
+      "title": "MetroNet Bangladesh Ltd.",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-10",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2262,8 +2245,25 @@
       "posted": "2026-06-10",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c23f6c505a",
+      "title": "Logos (Daffodil Group)",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-10",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodil.group/about/family-logo",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "62fc37db8c",
