@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T15:30:18.787311+00:00",
+  "last_updated": "2026-06-19T19:58:10.590621+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -309,23 +309,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-19",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "ba6d1408d2",
       "title": "Culture and Diversity",
       "org": "IUT",
@@ -391,6 +374,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ec26e861fd",
+      "title": "Office of International Affairs and External Communications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-19",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -578,23 +578,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "ec26e861fd",
-      "title": "Office of International Affairs and External Communications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-19",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -955,6 +938,23 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
+      "id": "c23f6c505a",
+      "title": "Logos (Daffodil Group)",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-19",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodil.group/about/family-logo",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
       "id": "1b47b274b9",
       "title": "Bangladesh Corner",
       "org": "Daffodil International University",
@@ -986,6 +986,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-19",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1088,6 +1105,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/discount-partners",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "567178a1cb",
+      "title": "DIU News",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-19",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://news.daffodilvarsity.edu.bd/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1530,23 +1564,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-19",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2038,6 +2055,22 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "c9156246e2",
+      "title": "Our Businesses",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-19",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/companies/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
       "id": "3c3a911a08",
       "title": "Companies",
       "org": "Rahimafrooz",
@@ -2182,25 +2215,26 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "c9156246e2",
-      "title": "Our Businesses",
-      "org": "Rahimafrooz",
-      "category": "industry",
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
+      "org": "IUT",
+      "category": "govt_uni",
       "tags": [
-        "Industry",
-        "Electronics"
+        "Faculty",
+        "EEE",
+        "Govt Uni"
       ],
       "deadline": "See circular",
       "posted": "2026-06-19",
       "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/companies/",
-      "source_url": "https://www.rahimafrooz.com/career"
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "c23f6c505a",
-      "title": "Logos (Daffodil Group)",
-      "org": "Daffodil International University",
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
       "category": "private_uni",
       "tags": [
         "Lecturer",
@@ -2211,42 +2245,8 @@
       "posted": "2026-06-19",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://daffodil.group/about/family-logo",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-19",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "567178a1cb",
-      "title": "DIU News",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-19",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://news.daffodilvarsity.edu.bd/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "f06972ed0c",
