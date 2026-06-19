@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T10:47:31.162183+00:00",
+  "last_updated": "2026-06-19T15:30:18.787311+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -377,8 +377,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ec26e861fd",
-      "title": "Office of International Affairs and External Communications",
+      "id": "75027ccba1",
+      "title": "Societies",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -390,7 +390,7 @@
       "posted": "2026-06-19",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://iaec.iutoic-dhaka.edu/",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -578,6 +578,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ec26e861fd",
+      "title": "Office of International Affairs and External Communications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-19",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2021,22 +2038,6 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "c9156246e2",
-      "title": "Our Businesses",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-19",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/companies/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
       "id": "3c3a911a08",
       "title": "Companies",
       "org": "Rahimafrooz",
@@ -2181,21 +2182,20 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "75027ccba1",
-      "title": "Societies",
-      "org": "IUT",
-      "category": "govt_uni",
+      "id": "c9156246e2",
+      "title": "Our Businesses",
+      "org": "Rahimafrooz",
+      "category": "industry",
       "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
+        "Industry",
+        "Electronics"
       ],
       "deadline": "See circular",
       "posted": "2026-06-19",
       "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/companies/",
+      "source_url": "https://www.rahimafrooz.com/career"
     },
     {
       "id": "c23f6c505a",
