@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T03:58:23.834622+00:00",
-  "new_this_run": 0,
+  "last_updated": "2026-06-20T09:26:03.953069+00:00",
+  "new_this_run": 1,
   "jobs": [
     {
       "id": "f82c013828",
@@ -989,8 +989,8 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
+      "id": "d54fa4eee5",
+      "title": "?> DIU IT Section Daffodil International",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -1000,7 +1000,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-06-20",
-      "is_new": false,
+      "is_new": true,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -1516,40 +1516,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "349d54cbf6",
-      "title": "Institute of Continuing\n                                                    Education",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-20",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://ice.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "92d1b12700",
-      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-20",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://d2a2i.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "c3fe6b52f4",
       "title": "Admission",
       "org": "AIUB",
@@ -1890,23 +1856,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "56f6e5305a",
-      "title": "Recruitment Notice — AIUB",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-20",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://ajbe.aiub.edu/index.php/ajbe",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "024e5e2045",
       "title": "Research Groups",
       "org": "AIUB",
@@ -2230,6 +2179,74 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-20",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "349d54cbf6",
+      "title": "Institute of Continuing\n                                                    Education",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-20",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://ice.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "92d1b12700",
+      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-20",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://d2a2i.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "56f6e5305a",
+      "title": "Recruitment Notice — AIUB",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-20",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://ajbe.aiub.edu/index.php/ajbe",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "383d3fd19d",
@@ -5067,23 +5084,6 @@
       "is_new": false,
       "location": "Chittagong",
       "apply_url": "https://www.cuet.ac.bd/faculty/electrical-&-computer-engineering",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "0e3c055da4",
-      "title": "Faculty of Mechanical and Manufacturing Eng.",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/faculty/mechanical-and-manufacturing-eng",
       "source_url": "https://www.cuet.ac.bd/notices"
     }
   ]
