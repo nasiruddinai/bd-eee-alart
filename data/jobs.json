@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T03:53:27.159603+00:00",
+  "last_updated": "2026-06-30T09:45:09.465810+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -241,6 +241,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-30",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "be7b4d4345",
       "title": "Research Group",
       "org": "IUT",
@@ -289,23 +306,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-30",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1176,23 +1176,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-06-29",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "c1b2aa57b1",
       "title": "Contact\n                                            Us",
       "org": "AIUB",
@@ -1203,7 +1186,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/contact-us",
@@ -1220,7 +1203,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about",
@@ -1237,7 +1220,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about/Information",
@@ -1254,7 +1237,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about/general-information",
@@ -1271,7 +1254,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about/Rules-Of-Entry",
@@ -1288,7 +1271,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about/Why-Study-Here",
@@ -1305,7 +1288,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about/Resources",
@@ -1322,7 +1305,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about/Convocation",
@@ -1339,7 +1322,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/faculties/fass",
@@ -1356,7 +1339,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/faculties/fba",
@@ -1373,7 +1356,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/faculties/engg",
@@ -1390,7 +1373,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/faculties/fhls",
@@ -1407,7 +1390,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/faculties/fst",
@@ -1424,7 +1407,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/academic-calendar",
@@ -1441,7 +1424,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/academic-regulations",
@@ -1458,7 +1441,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/tuition-fee",
@@ -1475,7 +1458,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/Faculty-List",
@@ -1492,7 +1475,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/partnerships/internationalization",
@@ -1509,7 +1492,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/partnerships/academic-partners",
@@ -1526,7 +1509,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/partnerships/strategic-partners",
@@ -1543,7 +1526,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://ice.aiub.edu/",
@@ -1560,7 +1543,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://d2a2i.aiub.edu/",
@@ -1577,7 +1560,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
@@ -1594,7 +1577,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/onCampus",
@@ -1611,7 +1594,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/faculty-list/faculty-profile?q=arahman#arahman@aiub.edu",
@@ -1628,7 +1611,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/Administration/The-Chairman",
@@ -1645,7 +1628,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/Administration/The-Founders",
@@ -1662,7 +1645,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/administration/institutional-policy",
@@ -1679,7 +1662,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/oce",
@@ -1696,7 +1679,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/oca",
@@ -1713,7 +1696,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/ofa",
@@ -1730,7 +1713,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/hrd",
@@ -1747,7 +1730,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/opa",
@@ -1764,7 +1747,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/opd",
@@ -1781,7 +1764,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/op",
@@ -1798,7 +1781,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/opr",
@@ -1815,7 +1798,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/or",
@@ -1832,7 +1815,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/os",
@@ -1849,7 +1832,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/offices/osa",
@@ -1866,7 +1849,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/research",
@@ -1883,7 +1866,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/publications",
@@ -1900,7 +1883,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/Files/student-research/",
@@ -1917,7 +1900,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://ajbe.aiub.edu/index.php/ajbe",
@@ -1934,7 +1917,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/files/research/",
@@ -1951,7 +1934,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/research/research-lab",
@@ -1968,7 +1951,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/research/research-lab/ai-supercomputing-lab",
@@ -1985,7 +1968,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/research/research-lab/cyber-security-and-digital-forensics-laboratory",
@@ -2002,7 +1985,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/research/research-lab/the-next-generation-animation-and-game-development-lab",
@@ -2018,7 +2001,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/",
@@ -2034,7 +2017,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/",
@@ -2050,7 +2033,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/about-us/",
@@ -2066,7 +2049,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/milestones/",
@@ -2082,7 +2065,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/awards-achievement/",
@@ -2098,7 +2081,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/companies/",
@@ -2114,7 +2097,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/companies/",
@@ -2130,7 +2113,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
@@ -2146,7 +2129,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
@@ -2162,7 +2145,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
@@ -2178,7 +2161,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/our-products/",
@@ -2194,7 +2177,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
@@ -2210,7 +2193,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
@@ -2226,7 +2209,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
@@ -2242,11 +2225,28 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-06-29",
+      "posted": "2026-06-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-06-30",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "d54fa4eee5",
