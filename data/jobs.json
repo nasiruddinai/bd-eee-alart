@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T09:57:03.803505+00:00",
+  "last_updated": "2026-07-01T14:45:48.155715+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -989,8 +989,8 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -1002,7 +1002,7 @@
       "posted": "2026-07-01",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2215,6 +2215,23 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-01",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
       "id": "cefd5dcf5f",
       "title": "Discover IUT",
       "org": "IUT",
@@ -2230,23 +2247,6 @@
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-01",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "d54fa4eee5",
