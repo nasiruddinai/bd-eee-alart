@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T09:03:53.391945+00:00",
+  "last_updated": "2026-07-02T14:08:19.170239+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -326,23 +326,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-02",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "53ff6eb2af",
       "title": "Residence and Cafeteria",
       "org": "IUT",
@@ -391,6 +374,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ec26e861fd",
+      "title": "Office of International Affairs and External Communications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-02",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -578,23 +578,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "ec26e861fd",
-      "title": "Office of International Affairs and External Communications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-02",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1337,6 +1320,22 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "1159b0af7b",
+      "title": "MetroNet Bangladesh Ltd.",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-02",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
       "id": "42475add17",
       "title": "Products & Services",
       "org": "Rahimafrooz",
@@ -1417,20 +1416,21 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "1159b0af7b",
-      "title": "MetroNet Bangladesh Ltd.",
-      "org": "Rahimafrooz",
-      "category": "industry",
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
+      "org": "IUT",
+      "category": "govt_uni",
       "tags": [
-        "Industry",
-        "Electronics"
+        "Faculty",
+        "EEE",
+        "Govt Uni"
       ],
       "deadline": "See circular",
       "posted": "2026-07-02",
       "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
-      "source_url": "https://www.rahimafrooz.com/career"
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "c1b2aa57b1",
