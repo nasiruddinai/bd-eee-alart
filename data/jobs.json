@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T13:42:19.933071+00:00",
+  "last_updated": "2026-07-04T19:22:08.324793+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -1550,6 +1550,23 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-04",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "5c71a2aa1b",
       "title": "The\n                                                    Pro Vice Chancellor",
       "org": "AIUB",
@@ -2166,22 +2183,6 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "15891ca11a",
-      "title": "Press Reports & Features",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-04",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
       "id": "2c25f6f123",
       "title": "Rural Services Foundation",
       "org": "Rahimafrooz",
@@ -2195,6 +2196,22 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "15891ca11a",
+      "title": "Press Reports & Features",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-04",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
@@ -2213,23 +2230,6 @@
       "location": "Dhaka",
       "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-04",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "cefd5dcf5f",
