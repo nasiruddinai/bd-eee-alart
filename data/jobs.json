@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T03:24:12.083698+00:00",
+  "last_updated": "2026-07-04T08:44:51.247279+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -292,8 +292,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
+      "id": "bb10024214",
+      "title": "MOU and Linkage",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -305,7 +305,7 @@
       "posted": "2026-07-04",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1003,6 +1003,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-04",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2215,8 +2232,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "bb10024214",
-      "title": "MOU and Linkage",
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2225,28 +2242,11 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-07-03",
+      "posted": "2026-07-04",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-03",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "d54fa4eee5",
