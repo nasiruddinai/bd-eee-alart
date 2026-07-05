@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T08:59:50.366007+00:00",
+  "last_updated": "2026-07-05T13:48:27.137517+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -309,23 +309,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-05",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "ba6d1408d2",
       "title": "Culture and Diversity",
       "org": "IUT",
@@ -391,6 +374,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ec26e861fd",
+      "title": "Office of International Affairs and External Communications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-05",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -578,23 +578,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "ec26e861fd",
-      "title": "Office of International Affairs and External Communications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-05",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1584,6 +1567,23 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-05",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "5c71a2aa1b",
       "title": "The\n                                                    Pro Vice Chancellor",
       "org": "AIUB",
@@ -2232,21 +2232,21 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
+      "org": "IUT",
+      "category": "govt_uni",
       "tags": [
-        "Lecturer",
+        "Faculty",
         "EEE",
-        "Private Uni"
+        "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-07-04",
+      "posted": "2026-07-05",
       "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "d54fa4eee5",
