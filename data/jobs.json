@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T03:38:34.424657+00:00",
+  "last_updated": "2026-07-07T09:48:59.199574+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -309,6 +309,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-07",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "ba6d1408d2",
       "title": "Culture and Diversity",
       "org": "IUT",
@@ -323,23 +340,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "53ff6eb2af",
-      "title": "Residence and Cafeteria",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-07",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -989,8 +989,8 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
+      "id": "45fca5e14e",
+      "title": "Artofliving",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -1002,7 +1002,7 @@
       "posted": "2026-07-07",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1975,6 +1975,40 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "53ff6eb2af",
+      "title": "Residence and Cafeteria",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-07",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-07",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
       "id": "82ab97e0b1",
       "title": "Recruitment Notice — Rahimafrooz",
       "org": "Rahimafrooz",
@@ -2213,40 +2247,6 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-06",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-06",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "d54fa4eee5",
