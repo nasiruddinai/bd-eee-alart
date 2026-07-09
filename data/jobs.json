@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T15:18:46.465265+00:00",
+  "last_updated": "2026-07-09T19:54:52.156517+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -989,8 +989,8 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -1002,7 +1002,7 @@
       "posted": "2026-07-09",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1547,23 +1547,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-09",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2183,6 +2166,22 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "15891ca11a",
+      "title": "Press Reports & Features",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-09",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
       "id": "2c25f6f123",
       "title": "Rural Services Foundation",
       "org": "Rahimafrooz",
@@ -2199,20 +2198,38 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "15891ca11a",
-      "title": "Press Reports & Features",
-      "org": "Rahimafrooz",
-      "category": "industry",
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
       "tags": [
-        "Industry",
-        "Electronics"
+        "Lecturer",
+        "EEE",
+        "Private Uni"
       ],
       "deadline": "See circular",
       "posted": "2026-07-09",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
-      "source_url": "https://www.rahimafrooz.com/career"
+      "apply_url": "https://artofliving.social/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-09",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "cefd5dcf5f",
@@ -2230,23 +2247,6 @@
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-09",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "d54fa4eee5",
