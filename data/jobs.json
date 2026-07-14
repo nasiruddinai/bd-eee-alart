@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T08:12:07.983651+00:00",
+  "last_updated": "2026-07-14T13:50:49.613567+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -734,23 +734,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-14",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "5c71a2aa1b",
       "title": "The\n                                                    Pro Vice Chancellor",
       "org": "AIUB",
@@ -1397,6 +1380,23 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-14",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "45fca5e14e",
