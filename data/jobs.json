@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T07:58:03.547696+00:00",
+  "last_updated": "2026-07-18T13:23:44.704533+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -408,23 +408,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "75027ccba1",
-      "title": "Societies",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-18",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -969,6 +952,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-18",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2181,21 +2181,21 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
+      "id": "75027ccba1",
+      "title": "Societies",
+      "org": "IUT",
+      "category": "govt_uni",
       "tags": [
-        "Lecturer",
+        "Faculty",
         "EEE",
-        "Private Uni"
+        "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-07-17",
+      "posted": "2026-07-18",
       "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "f82c013828",
