@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T13:23:44.704533+00:00",
-  "new_this_run": 0,
+  "last_updated": "2026-07-18T19:11:59.365363+00:00",
+  "new_this_run": 1,
   "jobs": [
     {
       "id": "a3bbaf460e",
@@ -343,23 +343,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-18",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "53ff6eb2af",
       "title": "Residence and Cafeteria",
       "org": "IUT",
@@ -408,6 +391,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "75027ccba1",
+      "title": "Societies",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-18",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -938,6 +938,23 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
+      "id": "c410b08f2a",
+      "title": "Employability 360",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-18",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://employability.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -952,23 +969,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-18",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2181,8 +2181,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "75027ccba1",
-      "title": "Societies",
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2194,8 +2194,25 @@
       "posted": "2026-07-18",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-18",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "f82c013828",
@@ -5067,23 +5084,6 @@
       "is_new": false,
       "location": "Chittagong",
       "apply_url": "https://www.cuet.ac.bd/faculty/civil-and-environment-eng",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "f52098f631",
-      "title": "Faculty of Electrical & Computer Eng.",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/faculty/electrical-&-computer-engineering",
       "source_url": "https://www.cuet.ac.bd/notices"
     }
   ]
