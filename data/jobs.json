@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T13:25:29.366931+00:00",
+  "last_updated": "2026-07-19T19:14:02.108652+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -173,23 +173,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "c410b08f2a",
-      "title": "Employability 360",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-19",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://employability.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -204,6 +187,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-19",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1288,6 +1288,22 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "f3fd98ac98",
+      "title": "Other Ventures",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-19",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
       "id": "b0a4d0f514",
       "title": "Core Knowledge",
       "org": "Rahimafrooz",
@@ -1400,20 +1416,21 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "f3fd98ac98",
-      "title": "Other Ventures",
-      "org": "Rahimafrooz",
-      "category": "industry",
+      "id": "c410b08f2a",
+      "title": "Employability 360",
+      "org": "Daffodil International University",
+      "category": "private_uni",
       "tags": [
-        "Industry",
-        "Electronics"
+        "Lecturer",
+        "EEE",
+        "Private Uni"
       ],
       "deadline": "See circular",
       "posted": "2026-07-19",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
-      "source_url": "https://www.rahimafrooz.com/career"
+      "apply_url": "https://employability.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "a3bbaf460e",
@@ -2196,23 +2213,6 @@
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-18",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "f82c013828",
