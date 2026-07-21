@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T13:57:05.878634+00:00",
+  "last_updated": "2026-07-21T19:29:01.324408+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -343,23 +343,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-21",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "53ff6eb2af",
       "title": "Residence and Cafeteria",
       "org": "IUT",
@@ -442,6 +425,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://iaec.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "29989bf13f",
+      "title": "Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-21",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -612,23 +612,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "29989bf13f",
-      "title": "Chancellor",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-21",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -952,6 +935,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "c410b08f2a",
+      "title": "Employability 360",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-21",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://employability.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1318,22 +1318,6 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "c8c25784a5",
-      "title": "Community",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-21",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
       "id": "29372a6129",
       "title": "Sustainability",
       "org": "Rahimafrooz",
@@ -1382,21 +1366,37 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "c410b08f2a",
-      "title": "Employability 360",
-      "org": "Daffodil International University",
-      "category": "private_uni",
+      "id": "c8c25784a5",
+      "title": "Community",
+      "org": "Rahimafrooz",
+      "category": "industry",
       "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
+        "Industry",
+        "Electronics"
       ],
       "deadline": "See circular",
       "posted": "2026-07-21",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://employability.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
+      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-21",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "c1b2aa57b1",
