@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T02:56:06.847869+00:00",
+  "last_updated": "2026-07-23T08:38:18.569579+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -343,23 +343,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-23",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "53ff6eb2af",
       "title": "Residence and Cafeteria",
       "org": "IUT",
@@ -391,6 +374,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-23",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -938,23 +938,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "c410b08f2a",
-      "title": "Employability 360",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-23",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://employability.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -969,6 +952,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-23",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1513,23 +1513,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-07-23",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2181,8 +2164,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2191,15 +2174,15 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-07-22",
+      "posted": "2026-07-23",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
+      "id": "c410b08f2a",
+      "title": "Employability 360",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -2208,11 +2191,28 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-07-22",
+      "posted": "2026-07-23",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
+      "apply_url": "https://employability.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-07-23",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "f82c013828",
