@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T09:53:19.269216+00:00",
+  "last_updated": "2026-08-03T14:47:05.713700+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -462,8 +462,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "871295d136",
-      "title": "Office of the Vice Chancellor",
+      "id": "29989bf13f",
+      "title": "Chancellor",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -475,7 +475,7 @@
       "posted": "2026-08-03",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -629,23 +629,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "29989bf13f",
-      "title": "Chancellor",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-03",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1533,23 +1516,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-03",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "52fd0cc8df",
       "title": "On Campus",
       "org": "AIUB",
@@ -2183,6 +2149,22 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "2c25f6f123",
+      "title": "Rural Services Foundation",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-03",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
       "id": "15891ca11a",
       "title": "Press Reports & Features",
       "org": "Rahimafrooz",
@@ -2199,20 +2181,38 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "2c25f6f123",
-      "title": "Rural Services Foundation",
-      "org": "Rahimafrooz",
-      "category": "industry",
+      "id": "871295d136",
+      "title": "Office of the Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
       "tags": [
-        "Industry",
-        "Electronics"
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-03",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
       ],
       "deadline": "See circular",
       "posted": "2026-08-03",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
-      "source_url": "https://www.rahimafrooz.com/career"
+      "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "c410b08f2a",
