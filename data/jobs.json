@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T02:40:57.327967+00:00",
+  "last_updated": "2026-08-05T08:42:33.143946+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -275,23 +275,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-05",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "be7b4d4345",
       "title": "Research Group",
       "org": "IUT",
@@ -408,6 +391,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-05",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1465,23 +1465,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "34bca1b160",
-      "title": "Strategic\n                                                    Partners",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-05",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/partnerships/strategic-partners",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "349d54cbf6",
       "title": "Institute of Continuing\n                                                    Education",
       "org": "AIUB",
@@ -1513,6 +1496,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://d2a2i.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-05",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -1941,8 +1941,8 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
+      "id": "d0d7ee50dc",
+      "title": "Publications",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -1951,15 +1951,15 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-04",
+      "posted": "2026-08-05",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
+      "id": "34bca1b160",
+      "title": "Strategic\n                                                    Partners",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -1968,10 +1968,10 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-04",
+      "posted": "2026-08-05",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
+      "apply_url": "https://www.aiub.edu/partnerships/strategic-partners",
       "source_url": "https://www.aiub.edu/career"
     },
     {
