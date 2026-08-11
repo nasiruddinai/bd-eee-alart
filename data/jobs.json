@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T07:14:25.502953+00:00",
+  "last_updated": "2026-08-11T13:13:22.453782+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -207,8 +207,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "07870a98e3",
-      "title": "Institutes",
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -220,7 +220,7 @@
       "posted": "2026-08-11",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -955,23 +955,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "45fca5e14e",
       "title": "Artofliving",
       "org": "Daffodil International University",
@@ -1140,263 +1123,6 @@
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/administration",
       "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "82ab97e0b1",
-      "title": "Recruitment Notice — Rahimafrooz",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "46b8e39e8e",
-      "title": "Our Group",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c4b40dbaa8",
-      "title": "About Us",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/about-us/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "5e6496cc8d",
-      "title": "Milestones",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/milestones/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c524d64676",
-      "title": "Awards & Achievement",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/awards-achievement/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c9156246e2",
-      "title": "Our Businesses",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/companies/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "3c3a911a08",
-      "title": "Companies",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/companies/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "f3fd98ac98",
-      "title": "Other Ventures",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "b0a4d0f514",
-      "title": "Core Knowledge",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "1159b0af7b",
-      "title": "MetroNet Bangladesh Ltd.",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "42475add17",
-      "title": "Products & Services",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/our-products/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "c8c25784a5",
-      "title": "Community",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "29372a6129",
-      "title": "Sustainability",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "2c25f6f123",
-      "title": "Rural Services Foundation",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "15891ca11a",
-      "title": "Press Reports & Features",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "4b966b4567",
-      "title": "Faculties and Department",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-11",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "c1b2aa57b1",
@@ -1770,6 +1496,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://d2a2i.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2198,9 +1941,266 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
+      "id": "82ab97e0b1",
+      "title": "Recruitment Notice — Rahimafrooz",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "46b8e39e8e",
+      "title": "Our Group",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c4b40dbaa8",
+      "title": "About Us",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/about-us/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "5e6496cc8d",
+      "title": "Milestones",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/milestones/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c524d64676",
+      "title": "Awards & Achievement",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/awards-achievement/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c9156246e2",
+      "title": "Our Businesses",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/companies/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "3c3a911a08",
+      "title": "Companies",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/companies/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "f3fd98ac98",
+      "title": "Other Ventures",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "b0a4d0f514",
+      "title": "Core Knowledge",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "1159b0af7b",
+      "title": "MetroNet Bangladesh Ltd.",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "42475add17",
+      "title": "Products & Services",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/our-products/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "c8c25784a5",
+      "title": "Community",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "29372a6129",
+      "title": "Sustainability",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "2c25f6f123",
+      "title": "Rural Services Foundation",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "15891ca11a",
+      "title": "Press Reports & Features",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "07870a98e3",
+      "title": "Institutes",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-11",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
         "Lecturer",
@@ -2208,11 +2208,11 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-10",
+      "posted": "2026-08-11",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "c410b08f2a",
