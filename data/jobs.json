@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T07:32:22.361159+00:00",
+  "last_updated": "2026-08-12T13:18:01.565665+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -156,23 +156,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "383d3fd19d",
-      "title": "IUT: Mission and vision",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-12",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "ba4d4ac4ae",
       "title": "Academic Life",
       "org": "IUT",
@@ -272,6 +255,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-12",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -938,23 +938,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-12",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -1516,23 +1499,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-12",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "52fd0cc8df",
       "title": "On Campus",
       "org": "AIUB",
@@ -1958,6 +1924,57 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "383d3fd19d",
+      "title": "IUT: Mission and vision",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-12",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-12",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-12",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "82ab97e0b1",
       "title": "Recruitment Notice — Rahimafrooz",
       "org": "Rahimafrooz",
@@ -2196,23 +2213,6 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-12",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "c410b08f2a",
