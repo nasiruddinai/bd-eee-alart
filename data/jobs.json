@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T02:09:41.102366+00:00",
+  "last_updated": "2026-08-13T07:35:08.051177+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -173,23 +173,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ba4d4ac4ae",
-      "title": "Academic Life",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-13",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "1b39e90c3f",
       "title": "Academic Calendar",
       "org": "IUT",
@@ -323,6 +306,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "bb10024214",
+      "title": "MOU and Linkage",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-13",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -955,6 +955,23 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-13",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
       "id": "45fca5e14e",
       "title": "Artofliving",
       "org": "Daffodil International University",
@@ -1499,8 +1516,8 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
+      "id": "52fd0cc8df",
+      "title": "On Campus",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -1512,7 +1529,7 @@
       "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -1924,40 +1941,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-12",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-12",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "82ab97e0b1",
       "title": "Recruitment Notice — Rahimafrooz",
       "org": "Rahimafrooz",
@@ -1967,7 +1950,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/",
@@ -1983,7 +1966,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/",
@@ -1999,7 +1982,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/about-us/",
@@ -2015,7 +1998,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/milestones/",
@@ -2031,7 +2014,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/awards-achievement/",
@@ -2047,7 +2030,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/companies/",
@@ -2063,7 +2046,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/companies/",
@@ -2079,7 +2062,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
@@ -2095,7 +2078,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
@@ -2111,7 +2094,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
@@ -2127,7 +2110,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/our-products/",
@@ -2143,7 +2126,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
@@ -2159,7 +2142,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
@@ -2175,7 +2158,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
@@ -2191,15 +2174,15 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "bb10024214",
-      "title": "MOU and Linkage",
+      "id": "ba4d4ac4ae",
+      "title": "Academic Life",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2208,11 +2191,28 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-13",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "c410b08f2a",
