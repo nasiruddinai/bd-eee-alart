@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T13:19:41.497375+00:00",
+  "last_updated": "2026-08-13T19:09:58.993077+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -309,6 +309,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-13",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "bb10024214",
       "title": "MOU and Linkage",
       "org": "IUT",
@@ -391,23 +408,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-13",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -938,23 +938,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-13",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -969,6 +952,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-13",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1499,8 +1499,8 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
+      "id": "52fd0cc8df",
+      "title": "On Campus",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -1512,7 +1512,7 @@
       "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2164,8 +2164,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "192fea08f0",
-      "title": "Research, Extension, Advisory Services and Publications (REASP)",
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2177,12 +2177,12 @@
       "posted": "2026-08-13",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
       "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
@@ -2194,12 +2194,12 @@
       "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
+      "apply_url": "https://campuslife.daffodil.university/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
+      "id": "c3fe6b52f4",
+      "title": "Admission",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -2211,7 +2211,7 @@
       "posted": "2026-08-13",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
+      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
