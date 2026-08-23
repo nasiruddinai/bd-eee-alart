@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T12:46:06.160025+00:00",
+  "last_updated": "2026-08-23T18:36:20.408878+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -360,6 +360,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-23",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "53ff6eb2af",
       "title": "Residence and Cafeteria",
       "org": "IUT",
@@ -459,23 +476,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "871295d136",
-      "title": "Office of the Vice Chancellor",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-23",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -935,23 +935,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-23",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1431,23 +1414,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "5b48e61399",
-      "title": "Internationalization",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-23",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/partnerships/internationalization",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "3b48281ad5",
       "title": "Academic\n                                                    Partners",
       "org": "AIUB",
@@ -1530,6 +1496,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-23",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2181,8 +2164,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
+      "id": "871295d136",
+      "title": "Office of the Vice Chancellor",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2194,12 +2177,29 @@
       "posted": "2026-08-23",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-23",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "5b48e61399",
+      "title": "Internationalization",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -2211,7 +2211,7 @@
       "posted": "2026-08-23",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
+      "apply_url": "https://www.aiub.edu/partnerships/internationalization",
       "source_url": "https://www.aiub.edu/career"
     },
     {
