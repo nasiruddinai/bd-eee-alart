@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T01:25:58.769900+00:00",
+  "last_updated": "2026-08-24T07:05:44.457118+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -462,8 +462,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "871295d136",
-      "title": "Office of the Vice Chancellor",
+      "id": "29989bf13f",
+      "title": "Chancellor",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -475,7 +475,7 @@
       "posted": "2026-08-24",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -629,23 +629,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "29989bf13f",
-      "title": "Chancellor",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-24",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -986,23 +969,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-24",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1499,40 +1465,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "349d54cbf6",
-      "title": "Institute of Continuing\n                                                    Education",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-24",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://ice.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "92d1b12700",
-      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-24",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://d2a2i.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "c3fe6b52f4",
       "title": "Admission",
       "org": "AIUB",
@@ -1873,23 +1805,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "56f6e5305a",
-      "title": "Recruitment Notice — AIUB",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-24",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://ajbe.aiub.edu/index.php/ajbe",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "024e5e2045",
       "title": "Research Groups",
       "org": "AIUB",
@@ -2213,6 +2128,91 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "871295d136",
+      "title": "Office of the Vice Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-24",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-24",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "349d54cbf6",
+      "title": "Institute of Continuing\n                                                    Education",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-24",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://ice.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "92d1b12700",
+      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-24",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://d2a2i.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "56f6e5305a",
+      "title": "Recruitment Notice — AIUB",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-24",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://ajbe.aiub.edu/index.php/ajbe",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "c410b08f2a",
