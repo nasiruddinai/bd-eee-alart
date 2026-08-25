@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T01:24:04.391519+00:00",
+  "last_updated": "2026-08-25T06:55:36.145618+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -258,8 +258,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -271,7 +271,7 @@
       "posted": "2026-08-25",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2198,8 +2198,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "f06972ed0c",
-      "title": "Student Statistics",
+      "id": "d0d7ee50dc",
+      "title": "Publications",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2208,10 +2208,10 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-24",
+      "posted": "2026-08-25",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
