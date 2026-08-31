@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T04:20:29.442188+00:00",
+  "last_updated": "2026-08-31T13:03:59.622230+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -224,6 +224,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "07870a98e3",
+      "title": "Institutes",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-31",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "c5c05c4a99",
       "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
       "org": "IUT",
@@ -238,23 +255,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://library.iutoic-dhaka.edu/",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "f06972ed0c",
-      "title": "Student Statistics",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-31",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1533,6 +1533,23 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-08-31",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "5c71a2aa1b",
       "title": "The\n                                                    Pro Vice Chancellor",
       "org": "AIUB",
@@ -2181,8 +2198,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "07870a98e3",
-      "title": "Institutes",
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2191,28 +2208,11 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-08-30",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "c410b08f2a",
