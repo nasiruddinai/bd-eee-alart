@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T10:55:00.051841+00:00",
+  "last_updated": "2026-09-02T16:13:40.694452+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -241,6 +241,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "c5c05c4a99",
+      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-02",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://library.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "f06972ed0c",
       "title": "Student Statistics",
       "org": "IUT",
@@ -272,23 +289,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "be7b4d4345",
-      "title": "Research Group",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-02",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -782,23 +782,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "c5c05c4a99",
-      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-02",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "http://library.iutoic-dhaka.edu",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1533,23 +1516,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-02",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "52fd0cc8df",
       "title": "On Campus",
       "org": "AIUB",
@@ -2213,6 +2179,40 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "be7b4d4345",
+      "title": "Research Group",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-02",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-02",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "c410b08f2a",
