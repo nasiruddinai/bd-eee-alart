@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T16:13:40.694452+00:00",
+  "last_updated": "2026-09-02T20:44:06.471156+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -292,6 +292,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "be7b4d4345",
+      "title": "Research Group",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-02",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "192fea08f0",
       "title": "Research, Extension, Advisory Services and Publications (REASP)",
       "org": "IUT",
@@ -306,23 +323,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "bb10024214",
-      "title": "MOU and Linkage",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-02",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1516,6 +1516,23 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-02",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "52fd0cc8df",
       "title": "On Campus",
       "org": "AIUB",
@@ -2181,8 +2198,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "be7b4d4345",
-      "title": "Research Group",
+      "id": "bb10024214",
+      "title": "MOU and Linkage",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2194,25 +2211,8 @@
       "posted": "2026-09-02",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-02",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "c410b08f2a",
