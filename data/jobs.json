@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T03:29:05.698655+00:00",
-  "new_this_run": 0,
+  "last_updated": "2026-09-03T10:55:17.631085+00:00",
+  "new_this_run": 1,
   "jobs": [
     {
       "id": "a3bbaf460e",
@@ -241,23 +241,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "c5c05c4a99",
-      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-03",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "http://library.iutoic-dhaka.edu/",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "f06972ed0c",
       "title": "Student Statistics",
       "org": "IUT",
@@ -411,6 +394,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-03",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "75027ccba1",
       "title": "Societies",
       "org": "IUT",
@@ -476,6 +476,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "f66c15c5e5",
+      "title": "Office of the Registrar",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-03",
+      "is_new": true,
+      "location": "Gazipur",
+      "apply_url": "https://registrar.iutoic-dhaka.edu",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -785,6 +802,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "c5c05c4a99",
+      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-03",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://library.iutoic-dhaka.edu",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "5499f72933",
       "title": "Request for Information",
       "org": "Daffodil International University",
@@ -969,23 +1003,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "45fca5e14e",
-      "title": "Artofliving",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-03",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1513,6 +1530,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://d2a2i.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-03",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2181,26 +2215,9 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-02",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
+      "id": "45fca5e14e",
+      "title": "Artofliving",
+      "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
         "Lecturer",
@@ -2208,11 +2225,11 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-02",
+      "posted": "2026-09-03",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
-      "source_url": "https://www.aiub.edu/career"
+      "apply_url": "https://artofliving.social/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "c410b08f2a",
@@ -5067,23 +5084,6 @@
       "is_new": false,
       "location": "Chittagong",
       "apply_url": "https://www.cuet.ac.bd/faculty/architecture-&-planning",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "6ebd56f55c",
-      "title": "Faculty of Civil and Environment Eng.",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/faculty/civil-and-environment-eng",
       "source_url": "https://www.cuet.ac.bd/notices"
     }
   ]
