@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T10:53:28.638541+00:00",
+  "last_updated": "2026-09-04T16:00:49.090796+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -309,23 +309,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "192fea08f0",
-      "title": "Research, Extension, Advisory Services and Publications (REASP)",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-04",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "bb10024214",
       "title": "MOU and Linkage",
       "org": "IUT",
@@ -340,6 +323,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-04",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2181,8 +2181,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2194,7 +2194,7 @@
       "posted": "2026-09-04",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
