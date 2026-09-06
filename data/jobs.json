@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T15:09:35.307339+00:00",
+  "last_updated": "2026-09-06T20:11:45.666626+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -428,8 +428,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "ec26e861fd",
-      "title": "Office of International Affairs and External Communications",
+      "id": "75027ccba1",
+      "title": "Societies",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -441,7 +441,7 @@
       "posted": "2026-09-06",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://iaec.iutoic-dhaka.edu/",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -595,6 +595,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/medical-centre",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ec26e861fd",
+      "title": "Office of International Affairs and External Communications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-06",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://iaec.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -969,6 +986,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "d54fa4eee5",
+      "title": "?> DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-06",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1513,23 +1547,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://d2a2i.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "c3fe6b52f4",
-      "title": "Admission",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-06",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/admission",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2198,26 +2215,9 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "75027ccba1",
-      "title": "Societies",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-06",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "d54fa4eee5",
-      "title": "?> DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
+      "id": "c3fe6b52f4",
+      "title": "Admission",
+      "org": "AIUB",
       "category": "private_uni",
       "tags": [
         "Lecturer",
@@ -2228,8 +2228,8 @@
       "posted": "2026-09-06",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
+      "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "93715d975c",
