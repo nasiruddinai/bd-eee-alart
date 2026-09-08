@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T16:14:50.025565+00:00",
+  "last_updated": "2026-09-08T20:54:09.088978+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -309,23 +309,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "192fea08f0",
-      "title": "Research, Extension, Advisory Services and Publications (REASP)",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-08",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "bb10024214",
       "title": "MOU and Linkage",
       "org": "IUT",
@@ -374,6 +357,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "53ff6eb2af",
+      "title": "Residence and Cafeteria",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-08",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -887,6 +887,23 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "54282563bc",
+      "title": "Why Study Here",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-08",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/Why-Study-Here",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "e709ae0f8d",
       "title": "Resources",
       "org": "AIUB",
@@ -1105,6 +1122,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/partnerships/academic-partners",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "34bca1b160",
+      "title": "Strategic\n                                                    Partners",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-08",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/partnerships/strategic-partners",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -1824,8 +1858,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "53ff6eb2af",
-      "title": "Residence and Cafeteria",
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -1837,7 +1871,7 @@
       "posted": "2026-09-08",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2196,40 +2230,6 @@
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "54282563bc",
-      "title": "Why Study Here",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-08",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/Why-Study-Here",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "34bca1b160",
-      "title": "Strategic\n                                                    Partners",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-08",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/partnerships/strategic-partners",
-      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "93715d975c",
