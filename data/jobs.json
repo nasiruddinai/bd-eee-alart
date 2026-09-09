@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T16:11:41.431243+00:00",
+  "last_updated": "2026-09-09T20:40:47.210241+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -105,6 +105,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "e1e0cb03ce",
+      "title": "Admission Roadmap",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-09",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "14db86633f",
       "title": "International Students",
       "org": "IUT",
@@ -153,6 +170,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "ba4d4ac4ae",
+      "title": "Academic Life",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-09",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -343,23 +377,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "53ff6eb2af",
-      "title": "Residence and Cafeteria",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-09",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "8fa0eb4db9",
       "title": "Halls of Residence (Female)",
       "org": "IUT",
@@ -493,6 +510,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/board-members",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1d4cfab0dd",
+      "title": "Human Resource and Cabinet Office",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-09",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/establishment_office",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2164,8 +2198,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "e1e0cb03ce",
-      "title": "Admission Roadmap",
+      "id": "53ff6eb2af",
+      "title": "Residence and Cafeteria",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2177,41 +2211,7 @@
       "posted": "2026-09-09",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "ba4d4ac4ae",
-      "title": "Academic Life",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-09",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/academic_life",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "1d4cfab0dd",
-      "title": "Human Resource and Cabinet Office",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-09",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/administration/establishment_office",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
