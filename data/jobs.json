@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T03:51:54.225724+00:00",
+  "last_updated": "2026-09-22T11:11:19.511825+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -258,6 +258,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-22",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "d0d7ee50dc",
       "title": "Publications",
       "org": "IUT",
@@ -442,23 +459,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://iaec.iutoic-dhaka.edu/",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "29989bf13f",
-      "title": "Chancellor",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-22",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -663,6 +663,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "29989bf13f",
+      "title": "Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-22",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2041,23 +2058,6 @@
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/research/research-lab/the-next-generation-animation-and-game-development-lab",
       "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "f06972ed0c",
-      "title": "Student Statistics",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-21",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "4ff8928659",
