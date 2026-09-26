@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T16:03:48.644538+00:00",
+  "last_updated": "2026-09-26T20:50:03.203499+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -224,6 +224,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "07870a98e3",
+      "title": "Institutes",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-26",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "c5c05c4a99",
       "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
       "org": "IUT",
@@ -272,23 +289,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "be7b4d4345",
-      "title": "Research Group",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-26",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1584,23 +1584,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-26",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
       "id": "5c71a2aa1b",
       "title": "The\n                                                    Pro Vice Chancellor",
       "org": "AIUB",
@@ -2266,8 +2249,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "07870a98e3",
-      "title": "Institutes",
+      "id": "be7b4d4345",
+      "title": "Research Group",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2279,8 +2262,25 @@
       "posted": "2026-09-26",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-26",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "45fca5e14e",
