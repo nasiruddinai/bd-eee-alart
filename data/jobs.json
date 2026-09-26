@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T11:03:35.652338+00:00",
+  "last_updated": "2026-09-26T16:03:48.644538+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -224,23 +224,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "07870a98e3",
-      "title": "Institutes",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-26",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "c5c05c4a99",
       "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
       "org": "IUT",
@@ -255,6 +238,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://library.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-26",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2266,8 +2266,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "f06972ed0c",
-      "title": "Student Statistics",
+      "id": "07870a98e3",
+      "title": "Institutes",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2279,7 +2279,7 @@
       "posted": "2026-09-26",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
