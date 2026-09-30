@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T04:33:20.054241+00:00",
+  "last_updated": "2026-09-30T12:09:38.983462+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -207,23 +207,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "4b966b4567",
-      "title": "Faculties and Department",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-30",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "07870a98e3",
       "title": "Institutes",
       "org": "IUT",
@@ -272,6 +255,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-30",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2009,23 +2009,6 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-09-29",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "82ab97e0b1",
       "title": "Recruitment Notice — Rahimafrooz",
       "org": "Rahimafrooz",
@@ -2035,7 +2018,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/",
@@ -2051,7 +2034,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/",
@@ -2067,7 +2050,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/about-us/",
@@ -2083,7 +2066,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/milestones/",
@@ -2099,7 +2082,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/awards-achievement/",
@@ -2115,7 +2098,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/companies/",
@@ -2131,7 +2114,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/companies/",
@@ -2147,7 +2130,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
@@ -2163,7 +2146,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/core-knowledge/",
@@ -2179,7 +2162,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/metronet-bangladesh-ltd/",
@@ -2195,7 +2178,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/our-products/",
@@ -2211,7 +2194,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
@@ -2227,7 +2210,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/social-initiatives/",
@@ -2243,7 +2226,7 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/rural-services-foundation-rsf/",
@@ -2259,11 +2242,28 @@
         "Electronics"
       ],
       "deadline": "See circular",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-09-30",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "52fd0cc8df",
