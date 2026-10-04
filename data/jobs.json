@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T04:51:05.299744+00:00",
+  "last_updated": "2026-10-04T12:00:00.900087+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -343,8 +343,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -356,7 +356,7 @@
       "posted": "2026-10-04",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2266,8 +2266,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2276,10 +2276,10 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-10-03",
+      "posted": "2026-10-04",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
