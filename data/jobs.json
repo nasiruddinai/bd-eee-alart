@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T12:51:58.047252+00:00",
+  "last_updated": "2026-10-09T22:28:28.192803+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -51,23 +51,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "99f168f679",
-      "title": "Admission Page",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-09",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "http://admission.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -207,23 +190,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "4b966b4567",
-      "title": "Faculties and Department",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-09",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "07870a98e3",
       "title": "Institutes",
       "org": "IUT",
@@ -255,6 +221,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://library.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "f06972ed0c",
+      "title": "Student Statistics",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-09",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -972,23 +955,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "1b47b274b9",
-      "title": "Bangladesh Corner",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-09",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "e44d2d746c",
       "title": "Photo Gallery",
       "org": "Daffodil International University",
@@ -1530,6 +1496,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://ice.aiub.edu/",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "92d1b12700",
+      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-09",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://d2a2i.aiub.edu/",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2232,8 +2215,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "f06972ed0c",
-      "title": "Student Statistics",
+      "id": "99f168f679",
+      "title": "Admission Page",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2245,13 +2228,30 @@
       "posted": "2026-10-09",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
+      "apply_url": "http://admission.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "92d1b12700",
-      "title": "Dr. Anwarul Abedin Institute of Innovation (D2A2I)",
-      "org": "AIUB",
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-09",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "1b47b274b9",
+      "title": "Bangladesh Corner",
+      "org": "Daffodil International University",
       "category": "private_uni",
       "tags": [
         "Lecturer",
@@ -2262,8 +2262,8 @@
       "posted": "2026-10-09",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://d2a2i.aiub.edu/",
-      "source_url": "https://www.aiub.edu/career"
+      "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "5966e75ce6",
