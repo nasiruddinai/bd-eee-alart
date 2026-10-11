@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T04:37:14.464368+00:00",
+  "last_updated": "2026-10-11T12:21:09.714258+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -731,6 +731,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "52fd0cc8df",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-11",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2230,23 +2247,6 @@
       "location": "Gazipur",
       "apply_url": "https://sis.iutoic-dhaka.edu",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-10",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "d0d7ee50dc",
