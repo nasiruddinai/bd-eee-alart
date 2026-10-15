@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T11:05:07.386471+00:00",
-  "new_this_run": 1,
+  "last_updated": "2026-10-15T16:34:26.897427+00:00",
+  "new_this_run": 0,
   "jobs": [
     {
       "id": "a3bbaf460e",
@@ -153,23 +153,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://iutoic-dhaka.edu/admission",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "383d3fd19d",
-      "title": "IUT: Mission and vision",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-15",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -408,6 +391,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-15",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -986,6 +986,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-15",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1918,7 +1935,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-10-15",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://ajass.aiub.edu/index.php/ajass/about",
       "source_url": "https://www.aiub.edu/career"
@@ -2232,8 +2249,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
+      "id": "383d3fd19d",
+      "title": "IUT: Mission and vision",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2245,25 +2262,8 @@
       "posted": "2026-10-15",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/iut:-mission-&-vision",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-15",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "83955fdd9a",
