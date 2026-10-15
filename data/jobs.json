@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T03:42:20.455746+00:00",
-  "new_this_run": 0,
+  "last_updated": "2026-10-15T11:05:07.386471+00:00",
+  "new_this_run": 1,
   "jobs": [
     {
       "id": "a3bbaf460e",
@@ -411,8 +411,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
+      "id": "75027ccba1",
+      "title": "Societies",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -424,7 +424,7 @@
       "posted": "2026-10-15",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -986,23 +986,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-15",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1584,6 +1567,23 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "ab6bb0dcd7",
+      "title": "Board of Trustees",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-15",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/administration/board-of-trustees",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "5c71a2aa1b",
       "title": "The\n                                                    Pro Vice Chancellor",
       "org": "AIUB",
@@ -1632,23 +1632,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/Administration/The-Founders",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "ab6bb0dcd7",
-      "title": "Board of Trustees",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-15",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/administration/board-of-trustees",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -1924,6 +1907,23 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
+      "id": "51d83be1d6",
+      "title": "About the Journal",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-15",
+      "is_new": true,
+      "location": "Dhaka",
+      "apply_url": "https://ajass.aiub.edu/index.php/ajass/about",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
       "id": "024e5e2045",
       "title": "Research Groups",
       "org": "AIUB",
@@ -1989,23 +1989,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/research/research-lab/cyber-security-and-digital-forensics-laboratory",
-      "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "83955fdd9a",
-      "title": "Animation and Game Development Lab",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-15",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/research/research-lab/the-next-generation-animation-and-game-development-lab",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2249,8 +2232,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "75027ccba1",
-      "title": "Societies",
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2259,11 +2242,45 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-10-14",
+      "posted": "2026-10-15",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/societies",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-15",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "83955fdd9a",
+      "title": "Animation and Game Development Lab",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-15",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/research/research-lab/the-next-generation-animation-and-game-development-lab",
+      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "52fd0cc8df",
@@ -5067,23 +5084,6 @@
       "is_new": false,
       "location": "Chittagong",
       "apply_url": "https://www.cuet.ac.bd/academic-information/graduate-studies",
-      "source_url": "https://www.cuet.ac.bd/notices"
-    },
-    {
-      "id": "a990182752",
-      "title": "International Students",
-      "org": "CUET",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-05-22",
-      "is_new": false,
-      "location": "Chittagong",
-      "apply_url": "https://www.cuet.ac.bd/academic-information/international-students",
       "source_url": "https://www.cuet.ac.bd/notices"
     }
   ]
