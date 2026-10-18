@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T03:33:40.489314+00:00",
+  "last_updated": "2026-10-18T10:38:11.643561+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -207,6 +207,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "4b966b4567",
+      "title": "Faculties and Department",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-18",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "07870a98e3",
       "title": "Institutes",
       "org": "IUT",
@@ -221,23 +238,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "c5c05c4a99",
-      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-18",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "http://library.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2249,8 +2249,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "4b966b4567",
-      "title": "Faculties and Department",
+      "id": "c5c05c4a99",
+      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2259,10 +2259,10 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-10-17",
+      "posted": "2026-10-18",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/faculties_&_departments",
+      "apply_url": "http://library.iutoic-dhaka.edu/",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
