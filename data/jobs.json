@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T16:35:21.746300+00:00",
+  "last_updated": "2026-10-20T21:25:47.206226+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -224,6 +224,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "07870a98e3",
+      "title": "Institutes",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-20",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "c5c05c4a99",
       "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
       "org": "IUT",
@@ -289,23 +306,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/research_group",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "192fea08f0",
-      "title": "Research, Extension, Advisory Services and Publications (REASP)",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-20",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1584,8 +1584,8 @@
       "source_url": "https://www.aiub.edu/career"
     },
     {
-      "id": "ab6bb0dcd7",
-      "title": "Board of Trustees",
+      "id": "52fd0cc8df",
+      "title": "On Campus",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -1597,7 +1597,7 @@
       "posted": "2026-10-20",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/administration/board-of-trustees",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2217,22 +2217,6 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "15891ca11a",
-      "title": "Press Reports & Features",
-      "org": "Rahimafrooz",
-      "category": "industry",
-      "tags": [
-        "Industry",
-        "Electronics"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-20",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
-      "source_url": "https://www.rahimafrooz.com/career"
-    },
-    {
       "id": "2c25f6f123",
       "title": "Rural Services Foundation",
       "org": "Rahimafrooz",
@@ -2249,8 +2233,24 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "07870a98e3",
-      "title": "Institutes",
+      "id": "15891ca11a",
+      "title": "Press Reports & Features",
+      "org": "Rahimafrooz",
+      "category": "industry",
+      "tags": [
+        "Industry",
+        "Electronics"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-20",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
+      "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "192fea08f0",
+      "title": "Research, Extension, Advisory Services and Publications (REASP)",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2262,12 +2262,12 @@
       "posted": "2026-10-20",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/academics/institutes",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/research-extension-advisory-services-and-publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "52fd0cc8df",
-      "title": "On Campus",
+      "id": "ab6bb0dcd7",
+      "title": "Board of Trustees",
       "org": "AIUB",
       "category": "private_uni",
       "tags": [
@@ -2279,7 +2279,7 @@
       "posted": "2026-10-20",
       "is_new": false,
       "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
+      "apply_url": "https://www.aiub.edu/administration/board-of-trustees",
       "source_url": "https://www.aiub.edu/career"
     },
     {
