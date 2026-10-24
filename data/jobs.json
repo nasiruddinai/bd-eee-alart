@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T03:44:40.220469+00:00",
+  "last_updated": "2026-10-24T10:32:26.618182+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -326,23 +326,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "bb10024214",
-      "title": "MOU and Linkage",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-24",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "cefd5dcf5f",
       "title": "Discover IUT",
       "org": "IUT",
@@ -391,6 +374,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "8fa0eb4db9",
+      "title": "Halls of Residence (Female)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-24",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2249,6 +2249,23 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
+      "id": "bb10024214",
+      "title": "MOU and Linkage",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-24",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "52fd0cc8df",
       "title": "On Campus",
       "org": "AIUB",
@@ -2264,23 +2281,6 @@
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
-    },
-    {
-      "id": "8fa0eb4db9",
-      "title": "Halls of Residence (Female)",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-23",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "83955fdd9a",
