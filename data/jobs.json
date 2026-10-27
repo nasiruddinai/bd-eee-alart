@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T04:09:49.845460+00:00",
+  "last_updated": "2026-10-27T11:48:59.765976+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -275,6 +275,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-27",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "be7b4d4345",
       "title": "Research Group",
       "org": "IUT",
@@ -374,23 +391,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "8fa0eb4db9",
-      "title": "Halls of Residence (Female)",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-27",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1003,23 +1003,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-27",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2266,8 +2249,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
+      "id": "8fa0eb4db9",
+      "title": "Halls of Residence (Female)",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2276,11 +2259,28 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-27",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "83955fdd9a",
