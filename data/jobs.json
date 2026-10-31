@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T11:54:46.370316+00:00",
-  "new_this_run": 1,
+  "last_updated": "2026-10-31T17:01:31.845076+00:00",
+  "new_this_run": 0,
   "jobs": [
     {
       "id": "a3bbaf460e",
@@ -1051,7 +1051,7 @@
       ],
       "deadline": "See circular",
       "posted": "2026-10-31",
-      "is_new": true,
+      "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
@@ -1598,6 +1598,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/admission",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "c33c5bd818",
+      "title": "On Campus",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-10-31",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/onCampus",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2298,23 +2315,6 @@
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "c33c5bd818",
-      "title": "On Campus",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-10-30",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/onCampus",
-      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "b37c1c582e",
