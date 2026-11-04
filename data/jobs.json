@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T05:18:01.641420+00:00",
+  "last_updated": "2026-11-04T13:59:28.625620+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -122,23 +122,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "14db86633f",
-      "title": "International Students",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-04",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "3cc2b99a23",
       "title": "Campus Life",
       "org": "IUT",
@@ -241,6 +224,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "c5c05c4a99",
+      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-04",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://library.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "f06972ed0c",
       "title": "Student Statistics",
       "org": "IUT",
@@ -255,23 +255,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/student-statistics",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "d0d7ee50dc",
-      "title": "Publications",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-04",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/publications",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1003,6 +986,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-04",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2249,8 +2249,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "c5c05c4a99",
-      "title": "work in the Students' Reading Rooms of the IUT Library, the reading facility has been",
+      "id": "14db86633f",
+      "title": "International Students",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2259,28 +2259,28 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "http://library.iutoic-dhaka.edu/",
+      "apply_url": "http://admission.iutoic-dhaka.edu/international-students/general-information",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
+      "id": "d0d7ee50dc",
+      "title": "Publications",
+      "org": "IUT",
+      "category": "govt_uni",
       "tags": [
-        "Lecturer",
+        "Faculty",
         "EEE",
-        "Private Uni"
+        "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/publications",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "c33c5bd818",
