@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T14:14:58.897258+00:00",
+  "last_updated": "2026-11-05T23:27:06.954107+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -343,8 +343,8 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
+      "id": "ba6d1408d2",
+      "title": "Culture and Diversity",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -356,7 +356,7 @@
       "posted": "2026-11-05",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1023,23 +1023,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "93715d975c",
-      "title": "DIU IT Section Daffodil International",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-05",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "6395080568",
       "title": "Art of Living",
       "org": "Daffodil International University",
@@ -1071,23 +1054,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/flipbook/diu-annual-report",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "3068347238",
-      "title": "Brochure",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-05",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://daffodilvarsity.edu.bd/flipbook/brochure",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1139,23 +1105,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/discount-partners",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "567178a1cb",
-      "title": "DIU News",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-05",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://news.daffodilvarsity.edu.bd/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2266,8 +2215,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "ba6d1408d2",
-      "title": "Culture and Diversity",
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2279,8 +2228,59 @@
       "posted": "2026-11-05",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/culture_&_diversity",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "93715d975c",
+      "title": "DIU IT Section Daffodil International",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-05",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://it.daffodilvarsity.edu.bd",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "3068347238",
+      "title": "Brochure",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-05",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://daffodilvarsity.edu.bd/flipbook/brochure",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "567178a1cb",
+      "title": "DIU News",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-05",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://news.daffodilvarsity.edu.bd/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "c33c5bd818",
