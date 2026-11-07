@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T12:41:54.067303+00:00",
+  "last_updated": "2026-11-07T21:36:43.482891+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -411,6 +411,23 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-07",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
       "id": "75027ccba1",
       "title": "Societies",
       "org": "IUT",
@@ -459,23 +476,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "871295d136",
-      "title": "Office of the Vice Chancellor",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-07",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1006,23 +1006,6 @@
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
-      "id": "e44d2d746c",
-      "title": "Photo Gallery",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-07",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://campuslife.daffodil.university/",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
       "id": "93715d975c",
       "title": "DIU IT Section Daffodil International",
       "org": "Daffodil International University",
@@ -1139,23 +1122,6 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/discount-partners",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "567178a1cb",
-      "title": "DIU News",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-07",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://news.daffodilvarsity.edu.bd/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -2266,8 +2232,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
+      "id": "871295d136",
+      "title": "Office of the Vice Chancellor",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2279,8 +2245,42 @@
       "posted": "2026-11-07",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/office_of_the_vice_chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e44d2d746c",
+      "title": "Photo Gallery",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-07",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://campuslife.daffodil.university/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
+    },
+    {
+      "id": "567178a1cb",
+      "title": "DIU News",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-07",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://news.daffodilvarsity.edu.bd/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "c33c5bd818",
