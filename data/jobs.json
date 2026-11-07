@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T05:05:03.113051+00:00",
+  "last_updated": "2026-11-07T12:41:54.067303+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -411,23 +411,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "0d25b01f8f",
-      "title": "Games and Sports",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-07",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "75027ccba1",
       "title": "Societies",
       "org": "IUT",
@@ -459,6 +442,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://iaec.iutoic-dhaka.edu/",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "29989bf13f",
+      "title": "Chancellor",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-07",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/administration/chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -663,23 +663,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/administration/rules-and-regulations",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "29989bf13f",
-      "title": "Chancellor",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-07",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/messages/message-from-chancellor",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2281,6 +2264,23 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "0d25b01f8f",
+      "title": "Games and Sports",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-07",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/games_&_sports",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
       "id": "c33c5bd818",
