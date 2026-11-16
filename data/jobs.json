@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T05:20:29.207595+00:00",
+  "last_updated": "2026-11-16T15:08:48.259764+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -343,23 +343,6 @@
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-16",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
       "id": "ba6d1408d2",
       "title": "Culture and Diversity",
       "org": "IUT",
@@ -391,6 +374,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/campus_life/residence_and_cafeteria",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "8fa0eb4db9",
+      "title": "Halls of Residence (Female)",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-16",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -2266,8 +2266,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "8fa0eb4db9",
-      "title": "Halls of Residence (Female)",
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2276,10 +2276,10 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-15",
+      "posted": "2026-11-16",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/halls-of-residence-female",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
