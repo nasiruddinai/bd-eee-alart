@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T00:02:45.580741+00:00",
+  "last_updated": "2026-11-19T07:12:36.118421+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -13,7 +13,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://skill.jobs/join-daffodil-group/diu#JoinOurTalentCommunity",
@@ -30,7 +30,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/admission-contact",
@@ -47,7 +47,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/contact",
@@ -64,7 +64,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/copyright-issue",
@@ -81,7 +81,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/security-issues",
@@ -98,7 +98,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://webbackend.daffodilvarsity.edu.bd/photos/pdf/Report-on-traffic-mgt.pdf",
@@ -115,7 +115,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/location",
@@ -132,7 +132,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/corona",
@@ -149,7 +149,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodil.group/about/family-logo",
@@ -166,7 +166,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://daffodilvarsity.edu.bd/article/bangladesh-corner",
@@ -183,7 +183,7 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://campuslife.daffodil.university/",
@@ -200,27 +200,10 @@
         "Private Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://it.daffodilvarsity.edu.bd",
-      "source_url": "https://daffodilvarsity.edu.bd/career"
-    },
-    {
-      "id": "6395080568",
-      "title": "Art of Living",
-      "org": "Daffodil International University",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-18",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://artofliving.social/",
       "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
@@ -1414,6 +1397,23 @@
       "location": "Dhaka",
       "apply_url": "https://www.rahimafrooz.com/press-reports-features/",
       "source_url": "https://www.rahimafrooz.com/career"
+    },
+    {
+      "id": "6395080568",
+      "title": "Art of Living",
+      "org": "Daffodil International University",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-18",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://artofliving.social/",
+      "source_url": "https://daffodilvarsity.edu.bd/career"
     },
     {
       "id": "a3bbaf460e",
