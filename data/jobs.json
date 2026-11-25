@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:33:01.053108+00:00",
+  "last_updated": "2026-11-25T21:17:53.189729+00:00",
   "new_this_run": 0,
   "jobs": [
     {
@@ -102,6 +102,23 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "http://admission.iutoic-dhaka.edu/information/payment-fees",
+      "source_url": "https://www.iutoic-dhaka.edu/notices"
+    },
+    {
+      "id": "e1e0cb03ce",
+      "title": "Admission Roadmap",
+      "org": "IUT",
+      "category": "govt_uni",
+      "tags": [
+        "Faculty",
+        "EEE",
+        "Govt Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-25",
+      "is_new": false,
+      "location": "Gazipur",
+      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -323,23 +340,6 @@
       "is_new": false,
       "location": "Gazipur",
       "apply_url": "https://www.iutoic-dhaka.edu/research/mou-and-linkage",
-      "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "cefd5dcf5f",
-      "title": "Discover IUT",
-      "org": "IUT",
-      "category": "govt_uni",
-      "tags": [
-        "Faculty",
-        "EEE",
-        "Govt Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-25",
-      "is_new": false,
-      "location": "Gazipur",
-      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
     },
     {
@@ -1292,6 +1292,23 @@
       "is_new": false,
       "location": "Dhaka",
       "apply_url": "https://www.aiub.edu/about/Rules-Of-Entry",
+      "source_url": "https://www.aiub.edu/career"
+    },
+    {
+      "id": "54282563bc",
+      "title": "Why Study Here",
+      "org": "AIUB",
+      "category": "private_uni",
+      "tags": [
+        "Lecturer",
+        "EEE",
+        "Private Uni"
+      ],
+      "deadline": "See circular",
+      "posted": "2026-11-25",
+      "is_new": false,
+      "location": "Dhaka",
+      "apply_url": "https://www.aiub.edu/about/Why-Study-Here",
       "source_url": "https://www.aiub.edu/career"
     },
     {
@@ -2266,8 +2283,8 @@
       "source_url": "https://www.rahimafrooz.com/career"
     },
     {
-      "id": "e1e0cb03ce",
-      "title": "Admission Roadmap",
+      "id": "cefd5dcf5f",
+      "title": "Discover IUT",
       "org": "IUT",
       "category": "govt_uni",
       "tags": [
@@ -2276,28 +2293,11 @@
         "Govt Uni"
       ],
       "deadline": "See circular",
-      "posted": "2026-11-24",
+      "posted": "2026-11-25",
       "is_new": false,
       "location": "Gazipur",
-      "apply_url": "http://admission.iutoic-dhaka.edu/admission-roadmap",
+      "apply_url": "https://www.iutoic-dhaka.edu/campus_life/discover_iut",
       "source_url": "https://www.iutoic-dhaka.edu/notices"
-    },
-    {
-      "id": "54282563bc",
-      "title": "Why Study Here",
-      "org": "AIUB",
-      "category": "private_uni",
-      "tags": [
-        "Lecturer",
-        "EEE",
-        "Private Uni"
-      ],
-      "deadline": "See circular",
-      "posted": "2026-11-24",
-      "is_new": false,
-      "location": "Dhaka",
-      "apply_url": "https://www.aiub.edu/about/Why-Study-Here",
-      "source_url": "https://www.aiub.edu/career"
     },
     {
       "id": "45fca5e14e",
